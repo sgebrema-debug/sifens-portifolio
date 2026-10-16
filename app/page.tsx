@@ -1,5 +1,6 @@
 import { groups, getPage } from '@/lib/portfolio';
 import { Card } from '@/components/portfolio';
+import { ResearchSection } from '@/components/research-section';
 
 export default function Home() {
   const home = getPage('home')!;
@@ -55,6 +56,8 @@ export default function Home() {
           <span>A future we build together</span>
         </div>
       </div>
+
+      <ResearchSection />
 
       <section className="shell section">
         <div className="section-top">

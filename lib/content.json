@@ -27,6 +27,14 @@
       {
         "type": "p",
         "text": "At CMU-Africa, I'm learning alongside people from more than two dozen African countries. We bring different languages, experiences, and ways of seeing the world. Working together is teaching me that our diversity can lead us to ideas none of us would find alone."
+      },
+      {
+        "type": "h2",
+        "text": "Research rooted in African realities."
+      },
+      {
+        "type": "p",
+        "text": "My research interests include computer vision, machine learning, low-resource African languages, and educational robotics. I am working on Tamashek in Mali with a fellow CMU-Africa student from Mali whom I met in Kigali, alongside Professor Sascha Griffiths. Our aim is to explore how this work could support robots that help in education."
       }
     ],
     "images": [

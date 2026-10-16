@@ -441,7 +441,35 @@ footer h2 { font-size: clamp(38px, 4.5vw, 58px); margin-bottom: 28px; }
 .current-study-highlight strong { font-size: clamp(21px, 2vw, 27px); font-weight: 700; line-height: 1.3; }
 .current-study-highlight .ai-focus { margin-bottom: 0; font-size: 15px; }
 .ai-focus b { color: var(--forest); font-weight: 700; }
+.about-research-link { display: table; margin-top: 18px; }
+.research-section { background: var(--paper-deep); border-block: 1px solid var(--line); scroll-margin-top: 95px; }
+.research-layout { display: grid; grid-template-columns: minmax(0, 1.55fr) minmax(260px, 1fr); gap: 64px; align-items: start; }
+.research-lead { font-size: 18px; line-height: 1.85; }
+.research-status { color: var(--green); font-size: 12px; border-left: 2px solid var(--orange); padding-left: 12px; }
+.research-interests { list-style: none; padding: 0; margin: 25px 0 35px; display: flex; flex-wrap: wrap; gap: 9px; }
+.research-interests li { border: 1px solid #a9b3a3; color: var(--forest); padding: 6px 12px; font-size: 11px; }
+.research-project { border-top: 1px solid var(--line); padding-top: 30px; margin-bottom: 30px; }
+.research-project h3 { font-size: clamp(28px, 3vw, 37px); }
+.research-project p { color: var(--muted); line-height: 1.9; font-size: 15px; }
+.research-project .research-purpose { border-left: 3px solid var(--orange); padding-left: 20px; color: var(--forest); font-weight: 600; margin: 28px 0 0; }
+.research-professor { background: var(--paper); border: 1px solid var(--line); }
+.research-professor figure { margin: 0; padding: 18px 18px 0; }
+.research-professor img { width: 100%; height: auto; aspect-ratio: 358 / 444; object-fit: contain; }
+.research-professor figcaption { font-size: 10px; color: var(--muted); padding-top: 9px; }
+.research-professor figcaption a { text-decoration: underline; text-underline-offset: 3px; }
+.research-professor-copy { padding: 24px; }
+.research-professor-copy .journey-label { margin-bottom: 12px; }
+.research-professor-copy h3 { margin-bottom: 12px; font-size: 30px; }
+.research-professor-copy p { font-size: 13px; color: var(--muted); line-height: 1.8; }
+.research-professor-copy .research-professor-title { color: var(--forest); font-weight: 600; }
+@media (max-width: 900px) {
+  .research-layout { gap: 30px; grid-template-columns: minmax(0, 1.25fr) minmax(240px, 1fr); }
+}
 @media (max-width: 760px) {
   .home-header .nav { justify-content: flex-end; }
   .graduation-highlight, .current-study-highlight { padding: 20px; }
+  .research-layout { grid-template-columns: 1fr; gap: 35px; }
+  .research-professor { width: 100%; max-width: 440px; }
+  .research-lead { font-size: 16px; }
+  .research-status { margin-top: 8px; }
 }

@@ -9,6 +9,7 @@ export function AboutStory({ page }: { page: PortfolioPage }) {
           <h2>My roots travel<br />with me.</h2>
           <p>I'm Sifen. A software engineer, a curious student of AI, and someone who believes the best work starts with care for the people around us.</p>
           <a className="text-link" href="/explore">See what I'm building ↗</a>
+          <a className="text-link about-research-link" href="/#research">Explore my research interests →</a>
         </div>
         {page.images[0] && (
           <figure className="campus-image">
