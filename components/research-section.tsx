@@ -28,7 +28,7 @@ export function ResearchSection() {
               <span className="journey-label">CURRENT FOCUS / TAMASHEK, MALI</span>
               <h3>A language. A shared question.<br />A partnership across borders.</h3>
               <p>
-                I'm currently working on low-resource African languages, with a particular focus on Tamashek in Mali. My research partner is a fellow CMU-Africa student from Mali whom I met here in Kigali. Together, we're working with Professor Sascha Griffiths to explore how language technology can better reflect the communities it serves.
+                I'm currently working on low-resource African languages, with a particular focus on Tamashek in Mali. My research partner is <strong>Fadimata Diallo</strong>, a fellow CMU-Africa student from Mali whom I met here in Kigali. Together, we're working with Professor Sascha Griffiths to explore how language technology can better reflect the communities it serves.
               </p>
               <p>
                 Our aim is to bring this work into educational robotics, exploring how robots could support learning in a language familiar to the learner. It is a direction we're working toward, with plenty still to learn, test, and understand.
