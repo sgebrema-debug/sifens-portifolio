@@ -1,0 +1,2233 @@
+[
+  {
+    "title": "Home",
+    "slug": "home",
+    "url": "https://sites.google.com/view/sifenmekonnen/home",
+    "blocks": [
+      {
+        "type": "h1",
+        "text": "Software engineer. AI in focus."
+      },
+      {
+        "type": "p",
+        "text": "I'm Sifen Mekonnen Gebremariam, a software engineer and AI student. From Addis Ababa to Kigali, I carry one question into everything I build: how can this make someone's life better?"
+      },
+      {
+        "type": "h2",
+        "text": "From AASTU to Carnegie Mellon University Africa"
+      },
+      {
+        "type": "p",
+        "text": "In June 2026, I graduated in Software Engineering from Addis Ababa Science and Technology University. Today, I'm pursuing a Master of Science in Information Technology at Carnegie Mellon University Africa in Kigali, Rwanda, focusing on artificial intelligence."
+      },
+      {
+        "type": "h2",
+        "text": "Different roots. A shared possibility."
+      },
+      {
+        "type": "p",
+        "text": "At CMU-Africa, I'm learning alongside people from more than two dozen African countries. We bring different languages, experiences, and ways of seeing the world. Working together is teaching me that our diversity can lead us to ideas none of us would find alone."
+      }
+    ],
+    "images": [
+      {
+        "src": "/materials/image2.png",
+        "alt": "Sifen Mekonnen on the steps of CMU-Africa in Kigali, wearing an Ethiopian dress",
+        "original": ""
+      },
+      {
+        "src": "/materials/e13f8992ae7f178658b5.jpg",
+        "alt": "Sifen Mekonnen celebrating her AASTU Software Engineering graduation",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72uaHM27K6XCYjVVZAn447WYhO-HwwWWoSYZuuS4K_W8PAuT8tcKOj6Ps8hy6LpIYeh-gHrT644BEgoaw646tC6GH2zrrIsMNHrpN_Wk67Y9DBJltM5j3EsDYejlg8e0O4AQsJaQUPA4nFwQKG6VlWTQ1IbKjDyJHLr88lmFPJT3v2TrUvh2UZq-xip2W4uf7QM6ZbpoyWAzOucPHlZtn_9R6baoZClzxRkk_pJ7=w1280"
+      },
+      {
+        "src": "/materials/image.png",
+        "alt": "Sifen Mekonnen beside the CMU-Africa campus sign in Kigali, Rwanda",
+        "original": ""
+      },
+      {
+        "src": "/materials/1fa302845f8439ebc17b.jpg",
+        "alt": "Sifen Mekonnen — moments from her journey",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72triiLg3R_L5dEDNXDYCzGGsLOfcY1_jbFNiX8ytX48eOv9J11vfFpRuqj8-OMSqHRc9WAXF1-Jds61aepOehZk-MWSEjRqULnvOd__cADYG4axMtCXlAtvarugVaruOgZudRklQ5FwEy96RwGHj0-apLx700yLfSKGSj60LpE05JNIloIWbvQ2RnBYpwj8Y2Oz9jUbmlcaxq9JrA_ZgsaNG-AVVIMYw12vtioTCbE=w1280"
+      },
+      {
+        "src": "/materials/ed91de43705622b677ba.jpg",
+        "alt": "Sifen Mekonnen at Carnegie Mellon University Africa in Kigali",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72ty8zTYWWGmnYlvQTb5k35vS6Nhu-ygp2SE54JMSAj4LnCft-cdXg5UKGJXeBJyA9z2-7ff_mEs-xfMgdnMkmcE5tXf9HJsI_YA7XgsdbtHM-abGN4FAcucodPsY88sIAHA389c8d5CRXPAAjEyG3WZMcqPP0xCzFDoC5o_a0YRYCwiH4XqBDDvA8bw2FQ=w1280"
+      }
+    ],
+    "embeds": [],
+    "links": [
+      {
+        "text": "sif2026cmu@gmail.com",
+        "url": "mailto:sif2026cmu@gmail.com"
+      },
+      {
+        "text": "https://www.linkedin.com/in/sifen-mekonnen-g-m-2a8794217/",
+        "url": "https://www.linkedin.com/in/sifen-mekonnen-g-m-2a8794217/"
+      }
+    ]
+  },
+  {
+    "title": "About",
+    "slug": "about",
+    "url": "https://sites.google.com/view/sifenmekonnen/about",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "A new chapter, with the same purpose."
+      },
+      {
+        "type": "p",
+        "text": "In June 2026, I graduated in Software Engineering from Addis Ababa Science and Technology University. That milestone held years of hard work, encouragement from people who believed in me, and a growing sense of responsibility for what I could do with the skills I had gained."
+      },
+      {
+        "type": "p",
+        "text": "My next chapter brought me from Ethiopia to Kigali, Rwanda, where I'm now pursuing a Master of Science in Information Technology at Carnegie Mellon University Africa, focusing on artificial intelligence. CMU-Africa is the Kigali location of Carnegie Mellon's College of Engineering, part of the U.S. university based in Pittsburgh, Pennsylvania. Here, rigorous study and learning from accomplished professors come together with a purpose close to my heart: preparing people to shape Africa's technological future."
+      },
+      {
+        "type": "h2",
+        "text": "Learning Africa through one another."
+      },
+      {
+        "type": "p",
+        "text": "Some of my most meaningful learning happens in conversations with classmates. Our community brings together people from more than two dozen African countries, each carrying a different language, history, and understanding of home. A question I see one way can look entirely different to someone beside me."
+      },
+      {
+        "type": "p",
+        "text": "I'm learning to listen before I propose a solution. I'm learning that unity doesn't ask us to become the same. It asks us to make room for one another. There is beauty in what we bring individually, and possibility in what we can build together."
+      },
+      {
+        "type": "h2",
+        "text": "The person behind the projects."
+      },
+      {
+        "type": "p",
+        "text": "Long before I wrote code, Taekwondo in Bishoftu taught me patience, discipline, and respect. My father's belief in me still guides the way I approach my education and my work. Those lessons followed me into Technovation at 15, into hackathon teams, and into Se'kela Sustainable Fashion, where we explored how discarded materials could become something people valued."
+      },
+      {
+        "type": "p",
+        "text": "Building software and working with other young people have taught me that a promising idea is only a beginning. You have to understand who it serves, be willing to hear what isn't working, and keep showing up to improve it."
+      },
+      {
+        "type": "h2",
+        "text": "What I want to help build."
+      },
+      {
+        "type": "p",
+        "text": "I want to create technology that reflects the lives around us: our languages, our communities, and the realities people face every day. I'm especially curious about how AI can help us build useful, responsible tools that people can trust."
+      },
+      {
+        "type": "p",
+        "text": "I see Africa as a place of knowledge, creativity, and people with much to contribute. Working on challenges here can lead to ideas that matter far beyond the continent. I want to be part of that work, alongside people who care enough to listen, learn, and build together."
+      }
+    ],
+    "images": [
+      {
+        "src": "/materials/image1.png",
+        "alt": "Sifen Mekonnen beside the Carnegie Mellon University Africa entrance sign",
+        "original": ""
+      },
+      {
+        "src": "/materials/f1f13d317a8ed4af00be.jpg",
+        "alt": "Sifen Mekonnen at the African Union in Addis Ababa",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72u8fQd0_mpfp8Gxf4R70nkrXQ81t4vd0Q0X9TDHJ41Ix2KJtcCn2i6_tGEMNdejfSAs-KnleoSrnKRpOibszsuFhjKeavBsXB8VD5oyDKYo2rr4cpR2aKmOkZkkGVOvdtP1a0tgH28er7kMsk7wzFx-uT86Wdxksx51OF8-CKvcAhHLayv0OHmseFBDB8aus7lTHBZP9uLh5PiuyRiU1K7f99sEKq86aLxHT46rOug=w1280"
+      },
+      {
+        "src": "/materials/image2.png",
+        "alt": "Sifen Mekonnen on the steps of CMU-Africa in Kigali, wearing an Ethiopian dress",
+        "original": ""
+      },
+      {
+        "src": "/materials/image.png",
+        "alt": "Sifen Mekonnen beside the CMU-Africa campus sign in Kigali, Rwanda",
+        "original": ""
+      }
+    ],
+    "embeds": [],
+    "links": []
+  },
+  {
+    "title": "Hackathons",
+    "slug": "hackathons",
+    "url": "https://sites.google.com/view/sifenmekonnen/Hackathons",
+    "blocks": [
+      {
+        "type": "h3",
+        "text": "Hackathons: Where Ideas Meet Execution Under Pressure"
+      },
+      {
+        "type": "p",
+        "text": "This portfolio chronicles my journey through the dynamic arena of hackathons—intense, collaborative sprints that transform ideas into functional prototypes. Each event is a unique microcosm of innovation, teaching rapid problem-solving, agile teamwork, and user-centric design under tight deadlines. For me, hackathons are the ultimate testbed for learning, applying new technologies, and focusing on building technology that delivers genuine, real-world impact."
+      },
+      {
+        "type": "p",
+        "text": "⚡ Hackathon Portfolio at a Glance"
+      },
+      {
+        "type": "p",
+        "text": "#HackAddis 2025"
+      },
+      {
+        "type": "p",
+        "text": "Wedaj"
+      },
+      {
+        "type": "p",
+        "text": "Ethical AI & Community Support"
+      },
+      {
+        "type": "p",
+        "text": "Voice AI, NLP, Cultural Context"
+      },
+      {
+        "type": "p",
+        "text": "Project Lead & Developer"
+      },
+      {
+        "type": "p",
+        "text": "Led creation of a voice-based Christian AI advisor."
+      },
+      {
+        "type": "p",
+        "text": "African Blockchain Championship"
+      },
+      {
+        "type": "p",
+        "text": "LandChain"
+      },
+      {
+        "type": "p",
+        "text": "Transparency & Governance"
+      },
+      {
+        "type": "p",
+        "text": "Blockchain, Smart Contracts"
+      },
+      {
+        "type": "p",
+        "text": "Co-architect & Developer"
+      },
+      {
+        "type": "p",
+        "text": "Prototype for secure, transparent land registry."
+      },
+      {
+        "type": "p",
+        "text": "Reboot the Earth Hackathon"
+      },
+      {
+        "type": "p",
+        "text": "Dirsha Marketplace"
+      },
+      {
+        "type": "p",
+        "text": "Economic Empowerment"
+      },
+      {
+        "type": "p",
+        "text": "E-commerce, UI/UX, Local Focus"
+      },
+      {
+        "type": "p",
+        "text": "Full-Stack Developer"
+      },
+      {
+        "type": "p",
+        "text": "Platform connecting local artisans with markets."
+      },
+      {
+        "type": "p",
+        "text": "HerCommerce Hackathon"
+      },
+      {
+        "type": "p",
+        "text": "Eh t ale m"
+      },
+      {
+        "type": "p",
+        "text": "Women in Tech & E-commerce"
+      },
+      {
+        "type": "p",
+        "text": "E-commerce Platform Development"
+      },
+      {
+        "type": "p",
+        "text": "Contributor"
+      },
+      {
+        "type": "p",
+        "text": "Project focused on empowering women entrepreneurs."
+      },
+      {
+        "type": "p",
+        "text": "Afrochain Hackathon"
+      },
+      {
+        "type": "p",
+        "text": "Cha i nguard"
+      },
+      {
+        "type": "p",
+        "text": "Web3 & Digital Security"
+      },
+      {
+        "type": "p",
+        "text": "Web3, Security Tools"
+      },
+      {
+        "type": "p",
+        "text": "Contributor"
+      },
+      {
+        "type": "p",
+        "text": "Developed a tool for digital security in Web3."
+      },
+      {
+        "type": "p",
+        "text": "#HackAddis 2024"
+      },
+      {
+        "type": "p",
+        "text": "Gara VR Experience"
+      },
+      {
+        "type": "p",
+        "text": "Immersive Tech for Education"
+      },
+      {
+        "type": "p",
+        "text": "Virtual Reality (VR) Development"
+      },
+      {
+        "type": "p",
+        "text": "VR Developer"
+      },
+      {
+        "type": "p",
+        "text": "Contributed to a VR project for educational training."
+      },
+      {
+        "type": "p",
+        "text": "Hospitality Hackathon"
+      },
+      {
+        "type": "p",
+        "text": "Improving Kuriftu Membership an d Loyalty Service Website"
+      },
+      {
+        "type": "p",
+        "text": "Tourism & User Experience"
+      },
+      {
+        "type": "p",
+        "text": "UI/UX, Frontend Development"
+      },
+      {
+        "type": "p",
+        "text": "Frontend Developer"
+      },
+      {
+        "type": "p",
+        "text": "Enhanced website for Kuriftu African Village."
+      },
+      {
+        "type": "p",
+        "text": "🎯 My Hackathon Ethos"
+      },
+      {
+        "type": "p",
+        "text": "Through these experiences, I've honed a specific approach:"
+      },
+      {
+        "type": "p",
+        "text": "Problem-First Mindset: I start by deeply understanding the user and the core problem, ensuring the solution is necessary and relevant."
+      },
+      {
+        "type": "p",
+        "text": "Agile Collaboration: I thrive in diverse teams, valuing clear communication and the ability to pivot quickly when faced with obstacles."
+      },
+      {
+        "type": "p",
+        "text": "Focus on Impact: The goal is always to build a clear, functional prototype that demonstrates value and potential for real-world application."
+      }
+    ],
+    "images": [],
+    "embeds": [],
+    "links": []
+  },
+  {
+    "title": "Technovation... Girls Can Code",
+    "slug": "hackathons/technovation-girls-can-code",
+    "url": "https://sites.google.com/view/sifenmekonnen/Hackathons/technovation-girls-can-code",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "The Technovation Girls Global Competition is the world's largest and most prominent technology entrepreneurship challenge exclusively for girls and young women (ages 8-18). Organized by the nonprofit Technovation, it’s the flagship program that puts the concept of \"Technovation\" into practice on a massive, global scale."
+      }
+    ],
+    "images": [
+      {
+        "src": "/materials/b5270ed2b960770aed89.jpg",
+        "alt": "Technovation... Girls Can Code",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72sb2qoUm0gh_ZzvhFGc0ePzABfH795SaNHeLGcO2lAc9dHZ-U4cxBZoKuW-WRZp3KR86ZUghs0VhjfKJDUwYJigUddiDUUfHWU9TAwOqnyKZA-jqmC1p5AANPhZ8ONqwGEHrwJbJEOxieCkn0ZcMHcCijBEelYglVsHmpkxV7T_QShhIfSEIO3wZ0PF1AqlvL_r1Mro-07oGCxsPNogbdcevOSlvwifbLDaGRHDGfA=w1280"
+      }
+    ],
+    "embeds": [
+      "https://www.youtube.com/embed/LY71mzycoZ8",
+      "https://www.youtube.com/embed/zX2gw2KbUFM"
+    ],
+    "links": []
+  },
+  {
+    "title": "#HackAddis 2024",
+    "slug": "hackathons/hackaddis-2024",
+    "url": "https://sites.google.com/view/sifenmekonnen/Hackathons/hackaddis-2024",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "#HACKADDIS 2024"
+      },
+      {
+        "type": "p",
+        "text": "I had participated on this Hackathon in Virtual Reality Development using Unity. It was a new and exciting experience to be part of with my amazing team. We had unforgettable three days brainstorming, developing , and presenting our idea which paid off by being the first team to win the VR development category."
+      },
+      {
+        "type": "p",
+        "text": "We developed the GARA INNOVATION HUB in The Great Commission Ministry, Ethiopia, to be shown using Virtual Reality."
+      }
+    ],
+    "images": [
+      {
+        "src": "/materials/cc2bd2fbc76445373423.jpg",
+        "alt": "#HackAddis 2024",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72vFAjDPRqw5JSoJ2icMykUhR_PvyeBhDlm16qNoDNEe4KJCwvHxE5j9JGPaGzMoRih_U_MZ5MD891sk995ov_eTtJ_hohADCB276Fd8lshCUOvEUT9orvxmEGS5t2TMPMv1WLiiIwT-sXL6s1fJuny-is4py-q-2cYVRh5hwd0ArOo4rErLnDWE8UqJU8MEmQYSeRbJOjnZyRglQ0WKbyQML_BIVSWOvWW2BCRboDg=w1280"
+      },
+      {
+        "src": "/materials/b773acc138186832fb8b.jpg",
+        "alt": "#HackAddis 2024",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72slcUA8IS-3Z_7JTP6e0Z03xO8A6WlC9mm5FzyYyIK6D6IYtXJrpzg401tsMiXTSVUhWuhQ0XDHOXtQqEIJugfbKfveEeu5I90WNjeio4wcJS3CTwnvLQlUwjjB_iLh8dlfjAsna0gzS1r2qQLpEfI9CAGTt-IEoqsq9X_6Sh8WbELM5CUxq07XNdTHGdoxamGEdmwt1nNBTUkWwmZkEX3rNFINmu06GftQZzdV4oE=w1280"
+      },
+      {
+        "src": "/materials/6d4d2a45be01dcc9b0e1.jpg",
+        "alt": "#HackAddis 2024",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72vTh67CFvhNtalN5R9-1atSeah_SRyecYUA4els72L5VAZIpWVBDGw0lBMRlPWh1HJYfOk58OmwK0ylqDyjy8MgKZfAU85ANkMxbK3MxDJyJ70wuwUuoMA_2cIJC_U74vbTfvaTfg71DUrpsYACK99DlNygZnc59aw3S4AhTcY8u0DfdnXfLZ8OfzSnjHY=w1280"
+      },
+      {
+        "src": "/materials/c61970e50a15d94620b8.jpg",
+        "alt": "#HackAddis 2024",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72sHwMNL0-uE_2QMg_DpNHrSmV3xRfIbGhBSL9JP0qCvK1W3G32b81Q2M2KZ8j8fswvDQaAcY9mrFnow-Sm7O4cefTW-mEinHzmqF1LudjDFDnxlghRDkOGb83HlMTA8gm87KNR8_tdoYoO4el0XoRmTDCM09A3-dtK4V_WncCt7C43t_-QW9lK63CfpNoI2ztBYxNCwt88qKVDNGsQLrNGHajevvuVbvRwGHlkYvdg=w1280"
+      },
+      {
+        "src": "/materials/be32f4d8d3e69133cf28.jpg",
+        "alt": "#HackAddis 2024",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72tyS8_jc3Wj25xEYxswrdBnVNgOReOCvTHeZ2Ge-JjumruOl_QPzYKwqpolVhsRJuWxYFF0jYAP4xX5F-lg-wALoupRKAGWXE_tMCbFzNcaegHzy18-toi-xvMzBCCD4a7MeoAQ4m9t6Ln7Ebf_wVGD8y5cFt00Ult4fdOX1NDwP2GTV31d2OJ7v2SPXgU=w1280"
+      },
+      {
+        "src": "/materials/01bfba36a6519d817d7a.jpg",
+        "alt": "#HackAddis 2024",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72vlyD6UgOrNZgw9noKUWU-AH1Mwn-T6fut9zTCMkPFaHEXYl47HBPTH1AIyBh0Um3yy4iEti03BFP6xRMoT3dTQrSXJSR6209e_rFxlBEROdibH2F3nZUZa6tTU4etYH44l0_S3SggNAK_AkC0cS4Wyks0vml2Orz7oF1JSZA1MagjssnIY_PBKkjgymK1h-yDjk5xooMsKCFttTu6MAzknOutzA-FboKhzR1Os3yc=w1280"
+      }
+    ],
+    "embeds": [
+      "https://www.youtube.com/embed/YmJmQEzHK6c"
+    ],
+    "links": []
+  },
+  {
+    "title": "#HackAddis 2025",
+    "slug": "hackathons/hackaddis-2025",
+    "url": "https://sites.google.com/view/sifenmekonnen/Hackathons/hackaddis-2025",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "#HACKADDIS 2025"
+      },
+      {
+        "type": "p",
+        "text": "#HackAddis2025 : Innovation Meets Mission"
+      },
+      {
+        "type": "p",
+        "text": "From October 31–November 2, over 80 students and professionals gathered at Gara Innovation Hub for the 9th annual"
+      },
+      {
+        "type": "p",
+        "text": "#HackAddis hackathon, organized by Great Commission Ministry Ethiopia in partnership with Indigitous ."
+      },
+      {
+        "type": "p",
+        "text": "The 3-day event, themed “Go into the World,” invited participants to use their God-given “skill and ability” (Exodus 36:1–2) as an act of worship, creating innovative tools for sharing the Gospel in today’s digital world."
+      },
+      {
+        "type": "p",
+        "text": "Teams showcased 9 creative projects, including 4 software prototypes, 3 short films, and 2 original songs, blending technology, art, and faith to reach people in new ways."
+      },
+      {
+        "type": "p",
+        "text": "I had an amazing time at #HACKADDIS from Oct 30 – Nov 2 2025! 🚀"
+      },
+      {
+        "type": "p",
+        "text": "Our project Wedaj which is AI-powered Voice based  Christian webapp , app and bot, aimed to bring innovation and missional impact through technology. Competing with 3 other teams, we worked hard, learned a lot about AI, and proudly took first place! 🏆"
+      },
+      {
+        "type": "p",
+        "text": "Grateful for the teamwork, learning, and inspiration from this incredible experience. 🙌"
+      }
+    ],
+    "images": [
+      {
+        "src": "/materials/94751f91946bf0361efe.jpg",
+        "alt": "#HackAddis 2025",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72uBASM43JNirBpsW6equir9Xe-Ww2JRQ-KmoEtgRDG8neXrJBhqdcFID-ndDDqDgjsJjY7D6-9VI3LrxA9j3AiKHEzE0HKDHF6kqlHthbkTG7tcpfp6V8QXTPQF1HUMAnkuk9QCVRjvNYtW8raB-nueQwoZhQ3d70erzbi8kZpkcnyhC3xHF_OzkzETUCtHWe8gWJjbjrleaZsmGhBpqPDbKc3KgamFACStTZr-LuE=w1280"
+      },
+      {
+        "src": "/materials/af094d162b752970690d.jpg",
+        "alt": "#HackAddis 2025",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72vorRoBSHZLYCDzATFB3XYNteR5j2LyQB-Dzdb8Lp0VQcDJaOZaeCK0_R3nIbze1AVlIN7rdf5RINOBqbHmC5BwgSgqlbSXOf9mvJ_L8PF0wZlpurpojAhwTvCbv7yj8sqIkINU2ZMODslhN2mR_vkKJOtjVXCWSudbL0abZKbdlEvG9MxNVx_OEWDr_pbpm_K-OUibmTfJffK-kYF1BFZBiPdGVUlW5U9HfzXU=w1280"
+      },
+      {
+        "src": "/materials/bd5169a094ab9fd17472.jpg",
+        "alt": "#HackAddis 2025",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72vojmeTQfFReSeevKlWAksRl3995kiEYQL7avwFkjSQbkNrTPkLTIcxE_HyKOl9xjZIDqkSlabwo26PqgOWgt2TB6YdbJJ6LR0AZP0phtpvhq8sr8LGys47BOmU0UHHEgXUkY64MzjwgAzNjj5yDZCWtfaZonxU0RZDolr7Fs_PCET-QG7GFzgVPfFiGubUnHnyutuh27PEyr5vPQKBXfFKrXTwYuCCFwlFrCbxA0o=w1280"
+      },
+      {
+        "src": "/materials/54b2f6a4c2b9ed3fc996.jpg",
+        "alt": "#HackAddis 2025",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72tGEF9f86cSE8kO2duzILXJx5XiWuSfX5vmHD0BHPoWWW5Kz2XQxWRWlRhjIIrhTSPzvB7CImDGPsY3fHou3xzjnvFX-E16Pm4BMnW9hB9cB6VuXpo91vhTMGEOqpyK0zBSN1rM0t73_xE9GGwkZmFwpIQPyd_LsrFJFxBug5D5HLrJkQbOzWt9aJh0vCa7R-diQgJXBjEnkd4ML9N3EblTi1VW6qX5HVBwpem9Xs0=w1280"
+      },
+      {
+        "src": "/materials/5823943258f3861423f3.jpg",
+        "alt": "#HackAddis 2025",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72t3GWqEjoQAJZIfSYOW7wPA_CeVPXZ9WcsXXL1d55E72bJi9HYlzmrBXC68z-FDuAN_K5DuTP4Tqb-ZyMZT7r-fs-fBn7B5i1wQUNQBc4d_0xSrJitZdTpxx-eVODCNZoNHWT4vXF4r6lGUc6jGkq71vo40eEPZXP4AS11VHuT4o-PMazrzLTCigWwE1-V7biYnERLZUcQELmucvVzoMXH7RszWjYEFJjZHRKLTzyo=w1280"
+      },
+      {
+        "src": "/materials/2f397c9437ff52ea8246.jpg",
+        "alt": "#HackAddis 2025",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72t0D5ZOu3PRALQNV4xMZ3njrmP9RNfg2rTX6UGzRRgIpGemS_QxvJ3-buLN5lgHlTTotL-FYsImb4OkEPwqi2gypw9tXClNJk1EG4hiXcShxc8u7ZShL1Z7c57DR1YajjDb1vhOH_bYBrhbYv9LGJmbSLftxj3LCqqQQXPIxIvt1jqVz-yizXuQzOF8UYmGt93IPaos5R-BnSWNNCHbq8cRTmeLy0RbFiNdDh0enGQ=w1280"
+      },
+      {
+        "src": "/materials/e25e0687122e98f70ba0.jpg",
+        "alt": "#HackAddis 2025",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72tVQv8nrnlMtLtv1NDw2NpFF7x2npx9xeIOfSCW9fhk0UTTLnhnVhVzVpHjHkUxFC68b7dlUzUlx53OySi3Kvb-sELaly80KJtIU0oA4CaEEXCDVo9Q2IEIoegODp2fnhA22X8mUX5LhlvZ-yq3vycBoR-2b2eQQx_f0Yt5fx3QkeS_8coHL-w_628Y1G4ajEGtBhG5oZsgXemEtmY5qSJ4KiWdNSYFove5Ia-AqOE=w1280"
+      },
+      {
+        "src": "/materials/3e164657916166adf981.jpg",
+        "alt": "#HackAddis 2025",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72sA2iUImAXuvK5BAqCj8M1XXVPT5lASBPfv62BDg2sak6Zn69quC5JSyEfXya58oKNFHb7pdeJtprvz4fCHOfIWThaluL4CZ3GD1CUctd5F0OGFB4MawkmfeSSkPkgebMmGRy7ocNoua7KkZU3hC4ktfys3aNf8Tihp088l3GN_VVnV0a4dXzom5bZGRjWj4KNfYM2wobZ0NIbCzqj_pi1FgltvJTrQLx4YoixW=w1280"
+      },
+      {
+        "src": "/materials/87e91658fd9c4f4a3cc6.jpg",
+        "alt": "#HackAddis 2025",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72vG_GhODdF6tXFltTSvMHi2hWeeHwNEi2q80nOyYvkP7_i1YwlQSAxHqucow-GaQ1sjMfcNF6j01ONP3x_yQIi7La2xh-cKwPCzrOmEwrO0sfc-o75pOZqd018HXEVi7eQ2kslnCyRmKdiL69m1d8-fs2vmopnF6_3T8yCESlgau3t8eKkcZauS2OGJ1K5lw6ew5U51PzbgMxH8SyXTXGHsp29BS4SMwoBw_SWqEvA=w1280"
+      },
+      {
+        "src": "/materials/9f02cbe68d593d678c10.jpg",
+        "alt": "#HackAddis 2025",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72v01acQTUhlXsSvStxGjUEA_f6tc3n2wU9A1MGQI8m9x2C3FErP2q08iZDgeywWi_IJx6r3b0BxtrxPhHMbKJwOT59s75i5YU66EaT-PXb0G639-OUc21kifNbbF4AANds93sZVfqGjlJcz8bs9QRd9ux4bBBtioUCVVw769BJ1Bnhbt7uF9dAIKsXUDSHqEAIgs1LKF1Sy7If-CR8ui4meVqE2bgrG2ubqSykAc0w=w1280"
+      },
+      {
+        "src": "/materials/610fcc2ce31569c9b7f4.jpg",
+        "alt": "#HackAddis 2025",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72sEJ9ldoBgrj6lnRQRG3DXsXs2RhWd9P4bolwVTodiI8XXUlGvshEI3F6LCSd9QER4eSakoLP_yBC6WTF7_8sZMNBL12MFOpBjgQVO-XD6EJg3BSJirlpRvr_TPTUtDckS5Anl-7NOeLZFjDKzeFq_aYhe6Zu9TnIhGxkAI4Dd-Jv7H3nurNZnDvIfRQjzeQNjq4T20GLgyfQraorgL2J9sdwDBxbT5tU6NKz01los=w1280"
+      },
+      {
+        "src": "/materials/5d48d281e793e250c251.jpg",
+        "alt": "#HackAddis 2025",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72u3P17qYIY1vDeeJ-I-7I107dWt0w-YQN9IFEwdUm-jf1PrIm9ZLihA33czh5vkZS6inS-xvEfyck8-DuVQRS7M24mFSjPmwalLBMjHyTGM57yJsnQWiqW2YHPTwpAhZ4Td4XsveKd_hzUTyEJvDh3btRDNMx132xibTDb5D484f4TPcEiVO8LS88YioAe--gezNGj64_xde5mL_UpJ1oO8fIRpep7o54ZGwKpUVCM=w1280"
+      },
+      {
+        "src": "/materials/90b52dafe1fdead41678.jpg",
+        "alt": "#HackAddis 2025",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72uVpCqGHaxl5BNZAH0hZQ4QKGnJUEoCDDZbcOgX1thvLmpiZwtjaQ8vIHvNN6Q1kuDzEFgyr5cUTfwlnrqBzaILvVcHB-NQi75Hp8kHsoSmWiVbB0zV_obmA35LgZJLrqh6o8a6aZkjF3My8WiyleijLVTSTs-9ePOpHgzj0u3BnQwSS0addH4EQm5-KC5TkLh44HrBuF2A8g0JD2SG0sKYgssZtRWziGBtHjNepkg=w1280"
+      }
+    ],
+    "embeds": [
+      "https://www.youtube.com/embed/KEXJuSGSF-I",
+      "https://www.youtube.com/embed/CQrvZML_qlA"
+    ],
+    "links": []
+  },
+  {
+    "title": "Hospitality Hackathon",
+    "slug": "hackathons/hospitality-hackathon",
+    "url": "https://sites.google.com/view/sifenmekonnen/Hackathons/hospitality-hackathon",
+    "blocks": [
+      {
+        "type": "h1",
+        "text": "Hospitality Hackathon"
+      },
+      {
+        "type": "h2",
+        "text": "Team Hospitable"
+      },
+      {
+        "type": "h2",
+        "text": "Certificate of Participation"
+      },
+      {
+        "type": "h2",
+        "text": "Ethiopia’s first-ever Hospitality Hackathon took place on 12–13 April 2025, bringing together over 350 innovators to tackle real challenges in African hospitality. Hosted at ALX Lideta Hub and Kuriftu African Village, the event focused on solutions drawn from Kuriftu Resorts’ operations."
+      },
+      {
+        "type": "p",
+        "text": "We worked on improving the membership and loyalty program at Kuriftu African Village."
+      },
+      {
+        "type": "p",
+        "text": "I have worked on the UI/UX and Frontend part of the project using React, Tailwind CSS and Bootstrap."
+      },
+      {
+        "type": "p",
+        "text": "We have had an amazing time working and spending time together over the two intense days and I am grateful for being able to join the top 9 teams among the 70 teams to pitch our idea at the Kuriftu African Villag e...Burayu."
+      },
+      {
+        "type": "p",
+        "text": "Next Hackathon"
+      }
+    ],
+    "images": [
+      {
+        "src": "/materials/eaaa30f76099e0e57ec1.jpg",
+        "alt": "Hospitality Hackathon",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72uyZ0nS6xRV1pBfgzvczrpfp-xKglpD6HYRz14ixx-CO2370fEzOsdvwtcwpgcjIlQWra3R4ZQ6pTf5d6Ce8l6Mo8o8PefRT-Wg0kVIsXbnwXrjjn9MKxqzqnuslRvDakf8QhO-E2MAr_7hYwVxXC337AiUtA9zwI-DYj40tdPx345gHpPu4OT0GSSkDzAAU7Sq8BheUewEq60h--cV8CjXEjYsaQjf8Cng1ggworY=w1280"
+      },
+      {
+        "src": "/materials/c9075fabef51c5510cac.jpg",
+        "alt": "Hospitality Hackathon",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72vW34Owd4poLkcqQ9QZdYx7NXeRCa9X43ZHGPz2PWg7ONzrh8sFJF2w2kxNAEqryFnBxPjV8y16MGNk4pjeiRa22-vL2ejNazVFg2YGfozPBXT1-IWsY4dfJElHeV6VsVFwiZFjQ7KnBvS5I9lYX42PonN-6agRi-0xjSEqmED-dS63h8y_-Alt5oX3t4KIqWK_7eFq1-LH8ktemWe4B08kALCQkAGg6wHG65a8X_Y=w1280"
+      },
+      {
+        "src": "/materials/a2f721569d40957d34ce.jpg",
+        "alt": "Hospitality Hackathon",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72twp3Ojg5UTR_OWUchyX_SqZ837ifdQA0LGXXlFVUOqFeKciYLyW-CmlGrPmt5FwLq8pFNjfWu74q_i9-6wQBqrOuRe1di3Pa0mBQh0FzQ82fOKbIuh_vYGwS4smirnqjdk6ffQXsTtg8CJS63J7s-YX6Qs3gP5JLTB058_rMtPg6sj_n9GMfml5USaW6KrbEIoUExoaI7W5qzEaD7_HjzFHFdDdS2cX-YUBoAYQyQ=w1280"
+      },
+      {
+        "src": "/materials/bc21b6ca5dadd4a97394.jpg",
+        "alt": "Hospitality Hackathon",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72u67fP-gbjygz8eVXFaRAaO_NpNAgEbCEMA4ztj1FDi7G2C_dbmJx7FB_JkDXcc863bxK2LI6nD_oqLkWET_w605_9OCg5bbzQ1pC5HWPUUsr405vzO0jXRE30Z-yo1bHpnwLI7tR31nIrwL2GEIurVdgjjVTntEMOfd19C8aVOtNnKaqzNeC9W1ihQBYXoM_b7aTN_RoVBGyHDGSuWv1y2EYxM_sGusBunRDAb31U=w1280"
+      },
+      {
+        "src": "/materials/42db11a2723de8881bc0.jpg",
+        "alt": "Hospitality Hackathon",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72vma1sXrtPr8sMTkLKhaQLiTM_n_hg4hUderA3iuS0Vir1dhOuSFiockm-jlgnf7B1wVy8BaAoGmgs4sfQlK4P9-d6Y9q3a2R0Q5N06DWEo11cPyPjDwIQJLKy-Sey7mmBP0RZC4bDHuiZpJdde5joJUzfj80jiUFZXxt38crXeWAbYC34PMil3HkG6cB9l__zWmvGHnlP7km_6VZso4ZhWm8OhLNmX9XPRd7VrPfM=w1280"
+      }
+    ],
+    "embeds": [
+      "https://www.youtube.com/embed/WK3EjNMpIfo",
+      "https://www.youtube.com/embed/_KOfnFFRNhw",
+      "https://kuriftu-membership-ui.vercel.app/"
+    ],
+    "links": [
+      {
+        "text": "www.canva.com/design/DAGkamvs0o8/vZK8P79av6dQhDnQGHtZ4Q/edit?utm_content=DAGkamvs0o8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+        "url": "https://www.canva.com/design/DAGkamvs0o8/vZK8P79av6dQhDnQGHtZ4Q/edit?utm_content=DAGkamvs0o8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+      }
+    ]
+  },
+  {
+    "title": "African Blockchain Championship",
+    "slug": "hackathons/african-blockchain-championship",
+    "url": "https://sites.google.com/view/sifenmekonnen/Hackathons/african-blockchain-championship",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "African Blockchain Championship Hackathon"
+      },
+      {
+        "type": "p",
+        "text": "The African Blockchain Championship Hackathon has emerged as a groundbreaking continental competition that brings together Africa's brightest technological minds to solve real-world challenges using blockchain technology. This annual event represents more than just a competition—it's a movement that's accelerating Africa's position in the global digital economy."
+      },
+      {
+        "type": "p",
+        "text": "At this Hackathon, our team AuFive worked on a project called LandChain, which is a blockchain-based land registration system. you can find more in the video and the GitHub link attached below."
+      }
+    ],
+    "images": [
+      {
+        "src": "/materials/12c0100d4adda473e238.jpg",
+        "alt": "African Blockchain Championship",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72uEQWMaygyBlkqLKslXkGntQ1eY-oe-tnhVDEa7YRYtYvF5VeWzbhqfJcX3lmQ1V6pOKsx4kPhemeQLb0GgMunS_EoiT3JTpp_UbUxdqbTIbOTO-GUvF3-iBnGS8KeTgI9twxBdb7OU0kmnGUToHWZF98LqPIOau8nik6GGnIh14eaZ5GGcTfLTvekpaeig_9DtpdyDzClMrcGhtyhGqUMazlSx_lqNzCTMegUyjk0=w1280"
+      },
+      {
+        "src": "/materials/6e487a5c448ce03cde61.jpg",
+        "alt": "African Blockchain Championship",
+        "original": "https://lh3.googleusercontent.com/docsubipk/AP9E6xVT2a9jLitR01Po_6SvaNms90lxfWQjwPmCyNlODBss8HZqKN4rJNa-32CR9cx3hhYp6pEAhiuLpL02woLUf0kN6JSJQJUXSI4ByW3B3vIinVbQ5_0R2UnhfXLjYSNcA3YShKHIbrshQ44LKuugCJ2m022oHQfjT2_4ocjuHdWgOJeKbzqBy4goIu8mU4XOgvCbuWiws_0j-C0KEyii"
+      }
+    ],
+    "embeds": [
+      "https://player.vimeo.com/video/1079431990"
+    ],
+    "links": [
+      {
+        "text": "GitHub - AuFive5/Land-ownership Contribute to AuFive5/Land-ownership development by creating an account on GitHub.",
+        "url": "https://github.com/AuFive5/Land-ownership"
+      }
+    ]
+  },
+  {
+    "title": "Reboot The Earth Hackathon",
+    "slug": "hackathons/reboot-the-earth-hackathon",
+    "url": "https://sites.google.com/view/sifenmekonnen/Hackathons/reboot-the-earth-hackathon",
+    "blocks": [
+      {
+        "type": "h1",
+        "text": "Reboot The Earth Hackathon"
+      },
+      {
+        "type": "p",
+        "text": "Reboot The Earth Ethiopia kicked off this week(August 2025) in Addis Ababa!"
+      },
+      {
+        "type": "p",
+        "text": "Over two days, young innovators harnessed"
+      },
+      {
+        "type": "p",
+        "text": "#AI to reimagine climate resilience and agriculture."
+      },
+      {
+        "type": "p",
+        "text": "A huge thank you to all our partners: FAO , FAO e-agriculture, FAO Innovation, Salesforce , Ethiopian Youth Entrepreneurs Association (EYEA) , and the Ministry of Innovation and Technology- Ethiopia !"
+      },
+      {
+        "type": "h2",
+        "text": "Team ENKU"
+      },
+      {
+        "type": "p",
+        "text": "We worked on an innovative blockchain-empowered bond marketplace designed to collect individual farmer data while stabilizing market prices with an ssid and sms support to make them know of the bonds and also accept contract ."
+      },
+      {
+        "type": "p",
+        "text": "I have worked on the UI/UX and F armer mobile app using React Native."
+      },
+      {
+        "type": "p",
+        "text": "https://www.canva.com/design/DAGvqShA-Jc/FbMMN6ARmZjcvhXlh4N6FQ/edit"
+      },
+      {
+        "type": "p",
+        "text": "https://github.com/DesmondSol/dirsha"
+      },
+      {
+        "type": "p",
+        "text": "I have had an amazing time working and spending time together with my team E NKU over the two intense days and I am grateful for being able to join the top 10 teams among the 50 startup teams to pitch our idea at AASTU University."
+      },
+      {
+        "type": "p",
+        "text": "Next Hackathon"
+      }
+    ],
+    "images": [
+      {
+        "src": "/materials/cf89061ea68560540655.jpg",
+        "alt": "Reboot The Earth Hackathon",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72uNh4khRVkYjWlp7fmISpLXJlzzZ5iUKseac1ucXLmh1MsgQglJuxXG-3OHh53ucih_PCJiLR19B_4Kdzobd0fhgFUK2ft1MJRpQ_Uo9ZqWlWsrzsjKkxRsiR82D4tCk4YtIFmxXuSnAhCTSzPNn4Hx9lMhy2gxCI5q2m-r1Nkv8lcqzlMPZIMJp8qnRvRz-qn-7eWnjv20vT9JD2qPtiaySUAoH1uw1ZlpMfYkkIY=w1280"
+      },
+      {
+        "src": "/materials/8c2873618a56676d3d73.jpg",
+        "alt": "Reboot The Earth Hackathon",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72vo2c88XAMfK-hzMDWIky9L5RlaxClYMUrvaRvWxPIkQvSvG79dC9Ch6m49pon9ta3oJIDQIVVaRe_IWmCLBsMSqQmRM-mOAdGVguO5ablnJgJaxBkPAD8l61Lrxkf40RINb2z_BX_Ejke779ytcB04NYcMjylrA-XgltacuCC5DpI8_LSR3grHEmA75_bICLdeoTrmOrvdoKc9p-g9tCLDyQX0L9zvY2R_TC4DtM0=w1280"
+      },
+      {
+        "src": "/materials/97576a0ff5cc8c29f282.jpg",
+        "alt": "Reboot The Earth Hackathon",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72vl1DOE3pF0XrRY1dDsScqMr55LzxERyfFAjyQsZ9D9QvKm8bklFB0to7InaBPCk6KA13GHfYcmt1Alby2ahfKz-DJ7u32AVan3cxlKfJi7sB_UyBqUHhvUqojKODYnE_Qxa4noOye1g0dUOc4hTR698xu7-rsGoXAEMpIxh5NIrp2r8yyhMyPa1Io14r4NjMIOdyJAf8vhtNw7DG1i9K7A1-q7126JbXI3RA-L=w1280"
+      },
+      {
+        "src": "/materials/cb612ba0e67659578a5d.jpg",
+        "alt": "Reboot The Earth Hackathon",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72uJAUBdW43qHvakNlvICF7NDCIJBEconbkoRnOYc8Gp4708bjupx_N8T63_Biu082uYFGU0a6GoVJHFQ1e87R0VoMrVnLLCd4FcABaXLILEql3CHDz5tQfEznAiNUq0NDBBqd7wwtzQToGahV75CcXoH1_i32rDJXTSgjTN0Kb5jACP7uwqIlX_WvSXk6KEmZDOKZGR23tqPiAqswFTVwrUWoEqzObBImGBRTiBAH8=w1280"
+      },
+      {
+        "src": "/materials/4ad6a11ba306656de631.jpg",
+        "alt": "Reboot The Earth Hackathon",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72tQvhADFQAwNNc-vbJB0TE3lXXeztaD2gqmoPS-SqDA2xkrBMTYx0YUcemNLkg4BNnLtGi0Y4v3o6i0waQ10G-MxCaWnhXvTaDxhILktGDG-P_utwFE3nQGtDXRHRHvCuOx8kD6Z71Q7E1P090omReLIolkQ1RGh6OoQcfLuaoKsrHcemX4ECvD382K9tfNF6ZKOGWKvvfrl1cCGhJIjFCDGCdWfFImpUUnEUp9=w1280"
+      },
+      {
+        "src": "/materials/f29989cea66455def2a7.jpg",
+        "alt": "Reboot The Earth Hackathon",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72twWKdGy0kv-1bFogAjC6pj-qcnj72_yS9Ut_uFzo9nfSHB0dL7WzOcUW0eHNFIcDV1EdgDUlutO3-yjVmnN9leDpZXcptcHb8kz_WHmfVwSW-X3JLceUH5IvXjA6ciROpFM3UNJGxHIMZdTyCmNZN_ebD-nM9ieEa5fyBJ1dVpNRD6jX9lRN1V5aoZCWNzGyq3uR0TIAQ8Dr3TaA7SupC8BNv2xMIRLMtxnfeAmgU=w1280"
+      }
+    ],
+    "embeds": [
+      "https://dirshaa.vercel.app/"
+    ],
+    "links": [
+      {
+        "text": "#AI",
+        "url": "https://www.linkedin.com/search/results/all/?keywords=%23ai&origin=HASH_TAG_FROM_FEED"
+      },
+      {
+        "text": "FAO",
+        "url": "https://www.linkedin.com/company/fao/"
+      },
+      {
+        "text": "Salesforce",
+        "url": "https://www.linkedin.com/company/salesforce/"
+      },
+      {
+        "text": "Ethiopian Youth Entrepreneurs Association (EYEA)",
+        "url": "https://www.linkedin.com/company/eyea-et/"
+      },
+      {
+        "text": "Ministry of Innovation and Technology- Ethiopia",
+        "url": "https://www.linkedin.com/company/ministry-of-innovation-and-technology-ethiopia/"
+      },
+      {
+        "text": "https://www.canva.com/design/DAGvqShA-Jc/FbMMN6ARmZjcvhXlh4N6FQ/edit",
+        "url": "https://www.canva.com/design/DAGvqShA-Jc/FbMMN6ARmZjcvhXlh4N6FQ/edit"
+      }
+    ]
+  },
+  {
+    "title": "HerCommerce Hackathon",
+    "slug": "hackathons/hercommerce-hackathon",
+    "url": "https://sites.google.com/view/sifenmekonnen/Hackathons/hercommerce-hackathon",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "HERCOMMERCE HACKATHON"
+      },
+      {
+        "type": "p",
+        "text": "You are now part of a curated community of"
+      },
+      {
+        "type": "p",
+        "text": "Ethiopia's most ambitious women innovators—a movement"
+      },
+      {
+        "type": "p",
+        "text": "designed to reshape the future of African commerce."
+      },
+      {
+        "type": "p",
+        "text": "I have participated on this remarkable hackathon that brought together aspiring women entrepreneurs to solve real world problems. We have made a website called EhtAlem. I participated as the team lead."
+      }
+    ],
+    "images": [
+      {
+        "src": "/materials/96fdbb9a96b01e601f5a.jpg",
+        "alt": "HerCommerce Hackathon",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72uEJJ5eUkYuvEYuRyrnLY1PyXqyVTWObon3A45mhxfbGTXpynPxhJylcgIfOZkrJlSUBPk1XwMPayr3acpv7OeymhnB0u4Ah7cxQ2vr500VayrUfN37cRL4GEtdv7KCOsJPRj05rR21VlEXCFHqGvkL-btGPc42ousTryfhPCrudAK5Gg5_6F_m-hFZkIo=w1280"
+      },
+      {
+        "src": "/materials/5d45fec6e84d2061bb8c.jpg",
+        "alt": "HerCommerce Hackathon",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72tQn1uFg_RLzOZP611PR5pow98Gus3kPqfhmxUj_Qrcy3Jnbl_O7xlHT0DomvpnpMZnJj48_nFH27OXScCWIgrWgqKUr3ADs_qlBvfp2GuaFhqPz77WybCrcNs-X2PL2xUYQUZO39o-fIBxKpi4BFq1KjQ_tKKUEDYz_KKLp74SU4LNYCgDsPSzB96TUeyxe68hEAW0c4INbNcYHI3GiYjCsdy2Rv_v-3FAXc5ncmM=w1280"
+      },
+      {
+        "src": "/materials/7656d799f824367ee2d9.jpg",
+        "alt": "HerCommerce Hackathon",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72us5Pe8nfhr0fwkd0JJD9LtOZUNwkAKFNq7LbETvIeLPuL0_tf5PUw0HEI7IhkJ1Ggq3bpNyS9JPI_lRWRhk_1PdxGwqYBjUeGAVDA49kzZVIgXfMTYHqtoF8yrGAN6nxMcIS8oldcYT1yf9f5CocIslIeZf1ylr3HRcufnnz5Ju39Su7ltNwq-iXazF9O4aEQtVEd7XkWMbF7m2tSaE0VPRb_NE6JjvItdKjyMO6w=w1280"
+      }
+    ],
+    "embeds": [
+      "https://www.youtube.com/embed/QJrBwIriQbk",
+      "https://eht-alem-community-hub-web-app.vercel.app/"
+    ],
+    "links": []
+  },
+  {
+    "title": "Afrochain Hackathon",
+    "slug": "hackathons/afrochain-hackathon",
+    "url": "https://sites.google.com/view/sifenmekonnen/Hackathons/afrochain-hackathon",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "I have participated on this blockchain hackathon prepared mainly using Hedera, Our project aimed on helping the adoption of cryptocurrency by National Bank of Ethiopia so we focused on creating a platform that checks fraudulent transactions on chain. My role was as UI/UX designer and Frontend developer using React."
+      }
+    ],
+    "images": [
+      {
+        "src": "/materials/1b2372b64670808dcc88.jpg",
+        "alt": "Afrochain Hackathon",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72uR_NeegXd4p2WRUDZSz_zisLqdWTYP4okod2WYMoUbXpELXax-8GPGo75pGTewvLjnUWl3MxhlPqBRMrnNSBdjg5PuTUMbaCfXfW2Wi_kGJg4oU4WuIv4v7x58_ISEAzbps-_5unY-j6km-3k35EigoieaGfhOGSpAJW7aBZMLC64TwxNp0XjIaMBERUtPeXUUI-fQyq5tyOmRHfQ7ZlGR40m2z5Y6c_h2VGQb59U=w1280"
+      },
+      {
+        "src": "/materials/1b4e3c7aef0dbc0149a8.jpg",
+        "alt": "Afrochain Hackathon",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72vbUM2feQstQ-MNyO0wH09F7qZmKJz_A6uy4jo2m-unYYws6ZmVw1ODE6XLSFB5F3jRPle33hV8ghR_UiD6jjcUAQJ8lQmTecADa-NS98J7lK5M3hnG19KN2xx3Wx5TO0oURxHE4VHslOUcey1EHZN-ivqe0ICEvs24F_8Z6WfBtSYP06zkTf0hnL1neNpYjjntxnR0dfONK3bbIbd_T5-ER3WhLzkijFeIFo4r=w1280"
+      }
+    ],
+    "embeds": [
+      "https://chain-gaurd-afro-chain-hackathon.vercel.app/"
+    ],
+    "links": []
+  },
+  {
+    "title": "Internship",
+    "slug": "internship",
+    "url": "https://sites.google.com/view/sifenmekonnen/internship",
+    "blocks": [
+      {
+        "type": "h3",
+        "text": "Internship: Transforming Ideas into User-Centric Products"
+      },
+      {
+        "type": "p",
+        "text": "My internship at Phoenixopia Solutions was a pivotal immersion into professional software development, where I moved from academic projects to contributing to a commercial product used by real customers. This experience grounded my technical skills in the practical realities of user needs, agile workflows, and collaborative product development."
+      },
+      {
+        "type": "h3",
+        "text": "💼 Key Internship Summary"
+      },
+      {
+        "type": "p",
+        "text": "Company"
+      },
+      {
+        "type": "p",
+        "text": "Phoenixopia Solutions"
+      },
+      {
+        "type": "p",
+        "text": "Role"
+      },
+      {
+        "type": "p",
+        "text": "Mobile Developer & UI/UX Designer"
+      },
+      {
+        "type": "p",
+        "text": "Core Project"
+      },
+      {
+        "type": "p",
+        "text": "Restaurant Management System Application"
+      },
+      {
+        "type": "p",
+        "text": "Key Responsibilities"
+      },
+      {
+        "type": "p",
+        "text": "Led UI/UX design for the main user app and a payment dashboard using Figma."
+      },
+      {
+        "type": "p",
+        "text": "Transitioned designs into functional development as part of the frontend team."
+      },
+      {
+        "type": "p",
+        "text": "Collaborated with backend developers to ensure seamless integration."
+      },
+      {
+        "type": "p",
+        "text": "Primary Skills Applied"
+      },
+      {
+        "type": "p",
+        "text": "UI/UX Design (Figma), Frontend Development, Agile Collaboration, Product Strategy"
+      },
+      {
+        "type": "p",
+        "text": "Main Outcome"
+      },
+      {
+        "type": "p",
+        "text": "Delivered intuitive, user-focused designs for a complex multi-service app, enhancing the customer journey from discovery to delivery."
+      },
+      {
+        "type": "p",
+        "text": "🎨 Project Impact & What I Learned"
+      },
+      {
+        "type": "p",
+        "text": "At Phoenixopia, I worked on a comprehensive Restaurant Management System. My primary contribution was designing the user-facing mobile application, which integrated services for restaurant discovery, table booking, food ordering, delivery tracking, and promotions."
+      },
+      {
+        "type": "p",
+        "text": "This role taught me that great software is built at the intersection of technical feasibility and user desirability. I learned to:"
+      },
+      {
+        "type": "p",
+        "text": "Translate complex business requirements (like a unified booking and ordering flow) into simple, intuitive user interfaces."
+      },
+      {
+        "type": "p",
+        "text": "Advocate for the end-user during development discussions, ensuring the final product remained easy and enjoyable to use."
+      },
+      {
+        "type": "p",
+        "text": "Work effectively in a professional team, communicating design rationale and adapting to technical constraints."
+      },
+      {
+        "type": "p",
+        "text": "This internship was not just an application of my MERN stack and Flutter skills; it was a masterclass in the product development lifecycle, confirming my passion for building technology that solves everyday problems with elegance and efficiency."
+      }
+    ],
+    "images": [],
+    "embeds": [],
+    "links": []
+  },
+  {
+    "title": "Phoenixopia Solutions",
+    "slug": "internship/phoenixopia-solutions",
+    "url": "https://sites.google.com/view/sifenmekonnen/internship/phoenixopia-solutions",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Internship Organization/Company: ____Phoenixopia Solution_______________"
+      },
+      {
+        "type": "p",
+        "text": "Internship Duration: From ___________June 2025____ To ___Aug 2025_______"
+      },
+      {
+        "type": "p",
+        "text": "The following are UI/UX Design Projects I have been working on during my internship period and in Class."
+      },
+      {
+        "type": "p",
+        "text": "https://www.figma.com/design/tVF6BmMYyoCT9HfHMHAAqU/Restaurant-App?node-id=0-1&t=1IhlRQWZytdSk4uK-1 ………"
+      },
+      {
+        "type": "p",
+        "text": "Restaurant App UI/UX"
+      },
+      {
+        "type": "p",
+        "text": "https://www.figma.com/proto/tVF6BmMYyoCT9HfHMHAAqU/Restaurant-App?page-id=0%3A1&node-id=8-360&starting-point-node-id=8%3A360&t=MaSoQoaAGxlMXVMh-1 .……."
+      },
+      {
+        "type": "p",
+        "text": "Restaurant App UI/UX Prototype"
+      },
+      {
+        "type": "p",
+        "text": "https://www.figma.com/design/VyyUWnr9pgfxEIyA0D5rQc/Payment-App?node-id=303-274&t=xSjMBQyK1EkLZIbz-1 ……."
+      },
+      {
+        "type": "p",
+        "text": "Payment User Side App UI/UX"
+      },
+      {
+        "type": "p",
+        "text": "https://www.figma.com/proto/VyyUWnr9pgfxEIyA0D5rQc/Payment-App?page-id=27%3A2&node-id=167-262&p=f&viewport=648%2C342%2C0.09&t=pne66KIk34DUt72j-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=167%3A262 …….."
+      },
+      {
+        "type": "p",
+        "text": "Payment User Side App Prototype"
+      },
+      {
+        "type": "p",
+        "text": "https://www.figma.com/design/VyyUWnr9pgfxEIyA0D5rQc/Payment-App?node-id=0-1&t=xSjMBQyK1EkLZIbz-1 ……."
+      },
+      {
+        "type": "p",
+        "text": "Payment App Dashboard UI/UX"
+      },
+      {
+        "type": "p",
+        "text": "https://www.figma.com/proto/VyyUWnr9pgfxEIyA0D5rQc/Payment-App?page-id=0%3A1&node-id=355-538&p=f&viewport=422%2C916%2C0.07&t=eLkFyMy22XvUfynS-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=355%3A538 ……."
+      },
+      {
+        "type": "p",
+        "text": "Payment App Dashboard Prototype"
+      },
+      {
+        "type": "p",
+        "text": "https://www.figma.com/proto/X2ky6l81N78tGNYPTZ2I0w/Beteseb-Hub-Addis--Group-7-Section-E-Spring-2025-v1.0?page-id=301%3A38&node-id=389-1003&p=f&viewport=297%2C191%2C0."
+      }
+    ],
+    "images": [
+      {
+        "src": "/materials/7bbe8ab762447676617b.jpg",
+        "alt": "Phoenixopia Solutions",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72t6EOa5ja8kRbWZuVqtJneIQTbZmS9BTAxM0lppTwIrOlI6R8xtlDu4U7Taa9ore6TjsK0zZ23loumaWFfg9CdEu78zDsfJ6hZgvBB5ae9T7U00Vbt3Rh3cgG4OdCLn1z8pytrA7Vh6-ivV93AMdxUi4CSouyUGxc2CB1e97-bsk_H-NqQ5A5OYNgYdrn_cSlvivQCMYG0esOa-6oRhkmUcZVt7kINICOUbkTRHJNg=w1280"
+      }
+    ],
+    "embeds": [
+      "https://www.youtube.com/embed/-Y0WheHIuSg"
+    ],
+    "links": [
+      {
+        "text": "https://www.figma.com/design/tVF6BmMYyoCT9HfHMHAAqU/Restaurant-App?node-id=0-1&t=1IhlRQWZytdSk4uK-1",
+        "url": "https://www.figma.com/design/tVF6BmMYyoCT9HfHMHAAqU/Restaurant-App?node-id=0-1&t=1IhlRQWZytdSk4uK-1"
+      },
+      {
+        "text": "https://www.figma.com/proto/tVF6BmMYyoCT9HfHMHAAqU/Restaurant-App?page-id=0%3A1&node-id=8-360&starting-point-node-id=8%3A360&t=MaSoQoaAGxlMXVMh-1",
+        "url": "https://www.figma.com/proto/tVF6BmMYyoCT9HfHMHAAqU/Restaurant-App?page-id=0%3A1&node-id=8-360&starting-point-node-id=8%3A360&t=MaSoQoaAGxlMXVMh-1"
+      },
+      {
+        "text": "https://www.figma.com/design/VyyUWnr9pgfxEIyA0D5rQc/Payment-App?node-id=303-274&t=xSjMBQyK1EkLZIbz-1",
+        "url": "https://www.figma.com/design/VyyUWnr9pgfxEIyA0D5rQc/Payment-App?node-id=303-274&t=xSjMBQyK1EkLZIbz-1"
+      },
+      {
+        "text": "https://www.figma.com/proto/VyyUWnr9pgfxEIyA0D5rQc/Payment-App?page-id=27%3A2&node-id=167-262&p=f&viewport=648%2C342%2C0.09&t=pne66KIk34DUt72j-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=167%3A262",
+        "url": "https://www.figma.com/proto/VyyUWnr9pgfxEIyA0D5rQc/Payment-App?page-id=27%3A2&node-id=167-262&p=f&viewport=648%2C342%2C0.09&t=pne66KIk34DUt72j-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=167%3A262"
+      },
+      {
+        "text": "https://www.figma.com/design/VyyUWnr9pgfxEIyA0D5rQc/Payment-App?node-id=0-1&t=xSjMBQyK1EkLZIbz-1",
+        "url": "https://www.figma.com/design/VyyUWnr9pgfxEIyA0D5rQc/Payment-App?node-id=0-1&t=xSjMBQyK1EkLZIbz-1"
+      },
+      {
+        "text": "https://www.figma.com/proto/VyyUWnr9pgfxEIyA0D5rQc/Payment-App?page-id=0%3A1&node-id=355-538&p=f&viewport=422%2C916%2C0.07&t=eLkFyMy22XvUfynS-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=355%3A538",
+        "url": "https://www.figma.com/proto/VyyUWnr9pgfxEIyA0D5rQc/Payment-App?page-id=0%3A1&node-id=355-538&p=f&viewport=422%2C916%2C0.07&t=eLkFyMy22XvUfynS-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=355%3A538"
+      },
+      {
+        "text": "https://www.figma.com/proto/X2ky6l81N78tGNYPTZ2I0w/Beteseb-Hub-Addis--Group-7-Section-E-Spring-2025-v1.0?page-id=301%3A38&node-id=389-1003&p=f&viewport=297%2C191%2C0.",
+        "url": "https://www.figma.com/proto/X2ky6l81N78tGNYPTZ2I0w/Beteseb-Hub-Addis--Group-7-Section-E-Spring-2025-v1.0?page-id=301%3A38&node-id=389-1003&p=f&viewport=297%2C191%2C0.03&t=qkjdRoZ70tEHip3f-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=305%3A38"
+      }
+    ]
+  },
+  {
+    "title": "Projects",
+    "slug": "projects",
+    "url": "https://sites.google.com/view/sifenmekonnen/projects",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "T his portfolio documents a journey of applied problem-solving, where theoretical knowledge meets real-world challenges. Each project represents a deliberate step in exploring how technology—from simple circuits to AI and blockchain—can be engineered to address specific needs, empower communities, and build more efficient systems."
+      },
+      {
+        "type": "p",
+        "text": "My process is anchored in a user-centric approach: identifying a genuine problem, architecting a functional solution, and iterating based on feedback. These projects span software development, hardware integration, and entrepreneurial ventures, reflecting a multidimensional skill set focused on creating tangible, positive change."
+      },
+      {
+        "type": "p",
+        "text": "🛠️ Project Portfolio Overview"
+      },
+      {
+        "type": "p",
+        "text": "Here is a summary of the key projects that illustrate my technical journey and problem-solving focus."
+      },
+      {
+        "type": "p",
+        "text": "Automatic Fuse Failure Indicator"
+      },
+      {
+        "type": "p",
+        "text": "Hardware / Electronics"
+      },
+      {
+        "type": "p",
+        "text": "Circuit Design, Embedded Systems"
+      },
+      {
+        "type": "p",
+        "text": "Preventing electrical hazards and downtime from unnoticed blown fuses."
+      },
+      {
+        "type": "p",
+        "text": "Designer & Builder; created a circuit to visually/audibly indicate fuse status."
+      },
+      {
+        "type": "p",
+        "text": "Medico: Automatic Pill Dispenser"
+      },
+      {
+        "type": "p",
+        "text": "Software/Hardware IoT"
+      },
+      {
+        "type": "p",
+        "text": "IoT, Mobile App (Flutter), Embedded Systems"
+      },
+      {
+        "type": "p",
+        "text": "Improving medication adherence for patients, especially the elderly."
+      },
+      {
+        "type": "p",
+        "text": "Project Lead; designed system architecture and developed the companion mobile app."
+      },
+      {
+        "type": "p",
+        "text": "Tutor For You Mobile App"
+      },
+      {
+        "type": "p",
+        "text": "Software Development"
+      },
+      {
+        "type": "p",
+        "text": "Mobile App (Flutter), UI/UX Design"
+      },
+      {
+        "type": "p",
+        "text": "Connecting students with tutors efficiently in a local context."
+      },
+      {
+        "type": "p",
+        "text": "Full-Stack Developer; led UI/UX design and frontend development."
+      },
+      {
+        "type": "p",
+        "text": "Se'kela Sustainable Fashion"
+      },
+      {
+        "type": "p",
+        "text": "Entrepreneurial Venture"
+      },
+      {
+        "type": "p",
+        "text": "Business Modeling, Sustainable Design"
+      },
+      {
+        "type": "p",
+        "text": "Environmental waste and creating economic opportunity from textile waste."
+      },
+      {
+        "type": "p",
+        "text": "Project Manager & Co-founder; led business strategy and pitch development."
+      },
+      {
+        "type": "p",
+        "text": "LandChain (via Hackathon)"
+      },
+      {
+        "type": "p",
+        "text": "Software / Blockchain"
+      },
+      {
+        "type": "p",
+        "text": "Blockchain, Smart Contracts"
+      },
+      {
+        "type": "p",
+        "text": "Transparency and security in land registry systems."
+      },
+      {
+        "type": "p",
+        "text": "Co-architect; contributed to smart contract logic and frontend integration."
+      },
+      {
+        "type": "p",
+        "text": "Wedaj (via Hackathon)"
+      },
+      {
+        "type": "p",
+        "text": "Software / AI"
+      },
+      {
+        "type": "p",
+        "text": "Voice AI, Natural Language Processing"
+      },
+      {
+        "type": "p",
+        "text": "Providing accessible, culturally-relevant guidance and support."
+      },
+      {
+        "type": "p",
+        "text": "Project Lead; oversaw concept development and AI model integration strategy."
+      },
+      {
+        "type": "p",
+        "text": "These projects showcase a progression from foundational hardware skills to complex full-stack and AI-driven software solutions, all unified by a consistent theme of creating practical, user-centered impact. They demonstrate not just technical ability, but also the entrepreneurial and leadership initiative to see an idea through to a functional prototype."
+      }
+    ],
+    "images": [],
+    "embeds": [],
+    "links": []
+  },
+  {
+    "title": "Automatic Fuse Failure Indicator",
+    "slug": "projects/automatic-fuse-failure-indicator",
+    "url": "https://sites.google.com/view/sifenmekonnen/projects/automatic-fuse-failure-indicator",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "I had the opportunity to participate on a project called Automatic Fuse Failure indicator at STEM POWER, Ethiopia where I learned practical skills to implement what I was learning in the classroom."
+      }
+    ],
+    "images": [
+      {
+        "src": "/materials/17709f6f943d565fdc01.jpg",
+        "alt": "Automatic Fuse Failure Indicator",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72s7L7mlX9QM9hFwa32baSF6D6qy_TCRrDSn0PI7b6hJ6UcFwbP6DFlNkSAKomhtBqxnmDmQnLa3Fo-UsDJlUo7LojxT7cB6FGrXxV5sIgQnmqNb61nc4mEJFckKonvW8dWC56cPq8ucF-jg14dr_tuwNXVtvWK3pww3YBE56QiBmWmyuj_N1jxpK9UWLHS3OzY5-KPEiDd__sBQprlsy9z5sX8O0i_NoXRFYfOA=w1280"
+      },
+      {
+        "src": "/materials/711d8bed3c430a730cfe.jpg",
+        "alt": "Automatic Fuse Failure Indicator",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72tAzJL7UQ3k1lRbfK9Ug3j8h9WgBm-ZZoef6LkpB5zFHHwuQPTKXUFjbOH5ifFaCJUCtQxBAe01lun97KErU6krFNANYWF1CkoHx_2bseGnuSZZBbI8MkWLy0PqxGLxFkJJ5sELAOQIUELyCkeONYu8X9VuvypsqzKDndXCGXxSJzk8ZuzrkQMLJVVAIyhOgD7JgwQzx_DtexiOltwZ9yvC2qMBQOt5tMXK6eIvgrA=w1280"
+      }
+    ],
+    "embeds": [
+      "https://www.youtube.com/embed/QosMFfzwrEA"
+    ],
+    "links": []
+  },
+  {
+    "title": "Medico... Automatic Pill Dispenser and Reminder",
+    "slug": "projects/medico-automatic-pill-dispenser-and-reminder",
+    "url": "https://sites.google.com/view/sifenmekonnen/projects/medico-automatic-pill-dispenser-and-reminder",
+    "blocks": [],
+    "images": [
+      {
+        "src": "/materials/eae3f5e58274a7de6bf7.jpg",
+        "alt": "Medico... Automatic Pill Dispenser and Reminder",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72ueZ-Sav9S_7MwcGnFaeuq45WsrOKPkdNuwZ-Nv2IGAoxtDOJ1BOZgoFMDccQeX0KTXRkugZcbx2CfZuxERGXhyNlyIBn3t7ndK_Z5spKtMEO5Lu7AqJ718la9Pev7YR1ykhS5W1_GZZd1w57YGQBJ5AzumYmiGbYb5GrCpREVZ4suABDjzr06malWV36D4FySk7aZED1xFy2teiiBCK8aOoomgh4XcCGOuLU5TgdQ=w1280"
+      }
+    ],
+    "embeds": [
+      "https://www.youtube.com/embed/EqBVSI7UX2Y",
+      "https://www.youtube.com/embed/f5twzN150oI"
+    ],
+    "links": []
+  },
+  {
+    "title": "Tutor For You Mobile Application",
+    "slug": "projects/tutor-for-you-mobile-application",
+    "url": "https://sites.google.com/view/sifenmekonnen/projects/tutor-for-you-mobile-application",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "TutForYou: is a mobile platform I built using Flutter and Firebase to seamlessly connect tutors with learners. I implemented features allowing tutors to create detailed profiles, list their subjects, set availability, and manage sessions, while learners can search for tutors based on subject, rating, or location. I integrated real-time chat, session scheduling, and push notifications using Firebase services like Firestore, Authentication, and Cloud Messaging. With a clean, cross-platform interface I developed, TutForYou makes personalized education accessible, reliable, and easy to manage for both tutors and students."
+      }
+    ],
+    "images": [],
+    "embeds": [],
+    "links": []
+  },
+  {
+    "title": "IETP",
+    "slug": "projects/ietp",
+    "url": "https://sites.google.com/view/sifenmekonnen/projects/ietp",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "The IETP (Interdisciplinary Engineering Team Project) is a flagship program at our university AddisAbaba Science and Technology University where students from different engineering disciplines—such as electrical, mechanical, civil, software, and industrial engineering—come together to collaborate on real-world, project-based challenges. The program mirrors professional industry environments, where diverse expertise is essential to solve complex, multi-faceted problems. Each team works on a single project, applying their specialized knowledge to design, build, and present a functional solution that addresses a societal or environmental need."
+      },
+      {
+        "type": "p",
+        "text": "Our group developed a sustainable housing solution called Eco-Nest, designed to create energy self-sufficient homes. We focused on integrating clean energy generation (solar panels and wind turbines) so homes can produce their own power, reducing reliance on external grids and lowering energy costs."
+      },
+      {
+        "type": "p",
+        "text": "Key contributions from our project:"
+      },
+      {
+        "type": "li",
+        "text": "Sustainable materials: We selected eco-friendly, durable building materials to minimize carbon footprints."
+      },
+      {
+        "type": "p",
+        "text": "Sustainable materials: We selected eco-friendly, durable building materials to minimize carbon footprints."
+      },
+      {
+        "type": "li",
+        "text": "Scalability: We ensured the design adapts to different climates and household sizes, making it suitable for global communities."
+      },
+      {
+        "type": "p",
+        "text": "Scalability: We ensured the design adapts to different climates and household sizes, making it suitable for global communities."
+      },
+      {
+        "type": "li",
+        "text": "Design & prototyping: We created detailed models and documented the production process with a photo gallery to showcase our approach."
+      },
+      {
+        "type": "p",
+        "text": "Design & prototyping: We created detailed models and documented the production process with a photo gallery to showcase our approach."
+      },
+      {
+        "type": "p",
+        "text": "The project demonstrates our commitment to pioneering energy-independent, affordable, and environmentally responsible homes for a sustainable future."
+      },
+      {
+        "type": "p",
+        "text": "On this project, where mechanical, electrical, civil, and industrial engineering students focus on physical systems, I brought a software engineering perspective to Eco-Nest. As the team leader of Group 46, I bridged the gap between hardware and digital intelligence."
+      },
+      {
+        "type": "p",
+        "text": "My specific contributions included:"
+      },
+      {
+        "type": "li",
+        "text": "System Integration & Smart Monitoring – I conceptualized and designed a digital dashboard (prototype) that would allow homeowners to monitor real-time energy generation from solar panels and wind turbines, track battery storage levels, and receive maintenance alerts."
+      },
+      {
+        "type": "p",
+        "text": "System Integration & Smart Monitoring – I conceptualized and designed a digital dashboard (prototype) that would allow homeowners to monitor real-time energy generation from solar panels and wind turbines, track battery storage levels, and receive maintenance alerts."
+      },
+      {
+        "type": "li",
+        "text": "Data Flow & Sensor Logic – I planned how data from energy sensors could be collected, processed, and displayed, applying software thinking to optimize energy usage patterns and predict load requirements."
+      },
+      {
+        "type": "p",
+        "text": "Data Flow & Sensor Logic – I planned how data from energy sensors could be collected, processed, and displayed, applying software thinking to optimize energy usage patterns and predict load requirements."
+      },
+      {
+        "type": "li",
+        "text": "Project Management & Collaboration – As team lead, I coordinated cross-discipline meetings, documented technical requirements, and ensured that mechanical and electrical components could interface with a future software layer. I used version control (Git) to manage project documents and designs."
+      },
+      {
+        "type": "p",
+        "text": "Project Management & Collaboration – As team lead, I coordinated cross-discipline meetings, documented technical requirements, and ensured that mechanical and electrical components could interface with a future software layer. I used version control (Git) to manage project documents and designs."
+      },
+      {
+        "type": "li",
+        "text": "Presentation & Visualization – I created digital presentations and visual mockups of the user interface for Eco-Nest, helping non-software teammates understand how homeowners would interact with the self-powered system."
+      },
+      {
+        "type": "p",
+        "text": "Presentation & Visualization – I created digital presentations and visual mockups of the user interface for Eco-Nest, helping non-software teammates understand how homeowners would interact with the self-powered system."
+      },
+      {
+        "type": "li",
+        "text": "Documentation & Reporting – I structured our project report, maintained meeting minutes, and ensured our Google Site clearly communicated both the engineering hardware and the software vision."
+      },
+      {
+        "type": "p",
+        "text": "Documentation & Reporting – I structured our project report, maintained meeting minutes, and ensured our Google Site clearly communicated both the engineering hardware and the software vision."
+      }
+    ],
+    "images": [
+      {
+        "src": "/materials/bed8cbab53a96539c318.jpg",
+        "alt": "IETP",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72vv4XGGymwzNSFBcKsigtxu2TlvLDRFpO0hgSDkJdkq0H291QWmW03aNGNV3zVoP-d_siwI7UTZEGek0AvlFCJvjFb1ARs0MfCvYl6RisBIeP1FAx2BaLgJCVSLgUCnAMUa2ACSDD8ZJ9SZgi1FNFwUwjsnvJ4NQ-7QBeqRVwLBkFnL-dAMBkmAxC4Yu8lQFfuSfOggxuRir-2nnHR9W2Kxh5FDzqybBqVhCIPd=w1280"
+      },
+      {
+        "src": "/materials/71b4393d4063785438ad.jpg",
+        "alt": "IETP",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72vbYQCHD5AQEPjKzLN0HGOSPPx1hm0MKcnOGafy4Y9nE73KabDe_oomEvPFk5Id1U0tmWNPVs5reqfNez_nXEIpS1KNQXUhlaWWBKUuwtL8Mk8xI1D93zukBele_I6wp3xCLamBqA4ds8OTSuWkE1Fu1Fmv772D6vJvb_JBdb4-ut11DQoDbJnz6awtjncEXSqyVpQd0ifCuXV9dmDNjiJD-Yf97xb6_p-rqpoW2JU=w1280"
+      }
+    ],
+    "embeds": [
+      "https://www.youtube.com/embed/nV0-hHwHnCU"
+    ],
+    "links": []
+  },
+  {
+    "title": "Entrepreneurial Journey",
+    "slug": "entrepreneurial-journey",
+    "url": "https://sites.google.com/view/sifenmekonnen/entrepreneurial-journey",
+    "blocks": [
+      {
+        "type": "h3",
+        "text": "Entrepreneurial Journey: From Ideas to Impact-Driven Ventures"
+      },
+      {
+        "type": "p",
+        "text": "My entrepreneurial path is a continuous cycle of identifying challenges, building solutions, and empowering others. It extends beyond business creation to fostering a mindset of innovation and resilience. This journey is fueled by the belief that the most sustainable ventures are those that generate both economic value and positive social impact."
+      },
+      {
+        "type": "p",
+        "text": "🚀 Venture Portfolio Snapshot"
+      },
+      {
+        "type": "p",
+        "text": "Se'kela Sustainable Fashion"
+      },
+      {
+        "type": "p",
+        "text": "Transforming textile waste into fashionable, marketable products."
+      },
+      {
+        "type": "p",
+        "text": "Environmental waste & economic opportunity in the fashion industry."
+      },
+      {
+        "type": "p",
+        "text": "Project Manager & Co-founder; led concept development, team coordination, and competition pitch."
+      },
+      {
+        "type": "p",
+        "text": "Winner of the LLEA Business Idea Competition; validated concept."
+      },
+      {
+        "type": "p",
+        "text": "ALX Founders Academy"
+      },
+      {
+        "type": "p",
+        "text": "Intensive venture-building program for scalable startups."
+      },
+      {
+        "type": "p",
+        "text": "Translating innovative ideas into structured, investable businesses."
+      },
+      {
+        "type": "p",
+        "text": "Participant; applied Lean Startup methodology to develop a venture from ideation to pitch."
+      },
+      {
+        "type": "p",
+        "text": "Completed program with a refined, pitch-ready venture model."
+      },
+      {
+        "type": "p",
+        "text": "Hult Prize at AASTU"
+      },
+      {
+        "type": "p",
+        "text": "Global challenge to create social good startups."
+      },
+      {
+        "type": "p",
+        "text": "Solving a pressing global issue with a for-good, for-profit business."
+      },
+      {
+        "type": "p",
+        "text": "Campus Mentor & Organizer; coached student teams to develop and pitch their solutions."
+      },
+      {
+        "type": "p",
+        "text": "Multiplied impact by enabling other founders; strengthened ecosystem."
+      },
+      {
+        "type": "p",
+        "text": "Paura Tech (Concept)"
+      },
+      {
+        "type": "p",
+        "text": "Agri-tech solutions for local farmers."
+      },
+      {
+        "type": "p",
+        "text": "Agricultural productivity and market access challenges."
+      },
+      {
+        "type": "p",
+        "text": "Co-founder; involved in initial problem validation and solution brainstorming."
+      },
+      {
+        "type": "p",
+        "text": "Early-stage concept development."
+      },
+      {
+        "type": "p",
+        "text": "🔑 Core Philosophies & Growth"
+      },
+      {
+        "type": "p",
+        "text": "This journey has defined my approach to entrepreneurship through key philosophies:"
+      },
+      {
+        "type": "p",
+        "text": "Impact-First Innovation: I start with a pressing problem—like textile waste with Se'kela or food security with Paura Tech—ensuring the venture's purpose is rooted in creating tangible value."
+      },
+      {
+        "type": "p",
+        "text": "The Builder's Mindset: Programs like ALX Founders Academy equipped me with the rigorous frameworks to de-risk ideas through customer validation, financial modeling, and iterative prototyping."
+      },
+      {
+        "type": "p",
+        "text": "Leadership as Multiplication: My role with the Hult Prize taught me that the highest leverage for an entrepreneur is to empower others. Success is multiplied by mentoring new founders and strengthening the support ecosystem around them."
+      },
+      {
+        "type": "p",
+        "text": "This journey is ongoing. It is a commitment to turning observation into action, ideas into ventures, and personal ambition into collective progress."
+      }
+    ],
+    "images": [],
+    "embeds": [],
+    "links": []
+  },
+  {
+    "title": "Se'kela Sustainable Fashion",
+    "slug": "entrepreneurial-journey/sekela-sustainable-fashion",
+    "url": "https://sites.google.com/view/sifenmekonnen/entrepreneurial-journey/sekela-sustainable-fashion",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "We are so excited to meet our esteemed Prime Minister His Excellency Dr. Abiy Ahmed and get invaluable business advice."
+      },
+      {
+        "type": "p",
+        "text": "As the Project Lead for Se’kela Sustainable Fashion , I spearheaded a venture that transformed textile waste into stylish, marketable apparel. This experience was my first deep dive into building a social enterprise from the ground up, blending creative design, sustainable mission, and business strategy to win the LLEA entrepreneurial business idea competition."
+      },
+      {
+        "type": "p",
+        "text": "Our challenge was clear: address the growing problem of fabric waste in Ethiopia’s fashion industry while creating economic opportunity. My role involved more than just managing a team—it required vision-setting, resourcefulness, and rallying a group around a purpose bigger than any single task."
+      },
+      {
+        "type": "p",
+        "text": "Se’kela was more than a competition entry—it was a proof of concept for my leadership and entrepreneurial mindset. It confirmed that I thrive when guiding a team from a raw idea to a validated, impactful solution. The experience also sharpened my ability to communicate a vision clearly and persuasively, whether to teammates, mentors, or judges."
+      },
+      {
+        "type": "p",
+        "text": "Most importantly, Se’kela reinforced my core belief: innovation should solve real problems for real people. This project sits at the heart of my entrepreneurial journey—a tangible example of how I turn observation into action, and ideas into ventures that matter."
+      }
+    ],
+    "images": [
+      {
+        "src": "/materials/6ce81e860545341e2e61.jpg",
+        "alt": "Se'kela Sustainable Fashion",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72sLlvI8_cDvTnw0InEH3XqYXnFhOCC-YY5kC35Xdnxk8MMKSFLpt6Dm76noQjRIvXiGZsqqJY88bJDxCqfreqPmNRQapYJBojejASd24ql9haN86BMfuVwHMpUOG8ye0vnYQehOx0ULNSwqHiS6CZ7OM1KzIkA-qKw0B_IjbLBvv4CD-uWGnoOI5bWqu2JBFXzdEXuGHl7pM_4WFBnQczKU4Nrvgzxl_zcUQ5JGy-g=w1280"
+      },
+      {
+        "src": "/materials/0141f191b69b9862315d.jpg",
+        "alt": "Se'kela Sustainable Fashion",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72vJF2k58-NusGrA0lQMcf-z6lpST1pgDLaTDHvLLL3ma1etEgPrXDcTpeN2VyRsyoAkRfYECRpRYaM3tTao5Men1K_4wB9t9Jk6uYf9A7ndIDbeZgtqXonJbsJgkipVfCk33qdidZL1q7cwGiYdOij26ppy-UNPJ7LpwWcd2mpyTHwzqNsjdrozDx0_bKGShntDpXETg4Uw5JSBy6pDmgYT87zf4K18q66RSQ=w1280"
+      },
+      {
+        "src": "/materials/ae59728e144490067772.jpg",
+        "alt": "Se'kela Sustainable Fashion",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72siYHFZC4pyFE2_1j7sDisz7GwMa6-q37Y7xTg0Wx_DHG_SI10Mkhi4QoIidfZgz4VcfbdAQhWlq8_Mtz52PlzVbwsBDMexQQ7xe0NUJh7pE85d40MeBXx42lQ6vTn_ubJ7_FcOCHOjQabru9HKzz6Gn4663CjMGvEGam_MFBsKh115NXd6hEiGozESk91svizmFYCsvwhiXK6zNjK2BImubZj0pLD82dndFsmzHVg=w1280"
+      },
+      {
+        "src": "/materials/e3665a23c418414cdb3f.jpg",
+        "alt": "Se'kela Sustainable Fashion",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72voipMrzX30ST4LX8Po555bYQi7WeGxaDbUy2d1mWpouGg7fB1coasTTuRLtyWSaxLlr0M3WFB71n3arGssPfMW2I_XHtr3xn6Q55eeVNKR6d5NSaQ1QHMyK69KbiHEAw0TWHqaSmNOKYJUeVa6lMShDJvWVg8R9z6lQxT9qoGzV_87BUjeT_oM_eHw4hhyY06nIueN5khw9iYI_ZiMh3-6rYFE3JbedHxjVJN0haI=w1280"
+      },
+      {
+        "src": "/materials/6934819ef5bd1b61d921.jpg",
+        "alt": "Se'kela Sustainable Fashion",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72tE8UtH_uGsTmdFyTfxnE-AVfgLOMrEmO0UuO75nP4RE3NjedI_62UGxq9SBLOAXb4bl9ZGh8tH0oM3Q4UAocdlXC45GAyVssRgaNY72ngGiswp_jhFubO_tLi95S50KX_dNRBJ7ZlS0P1Iax-PvcG_M_eRfEDq661daNcn44XXdSvfqOIiwxrAA7bqSETMnhiSIc53y2Gd3VTs0z8HV9uaZIR9B_kxeIJFtfHpFSc=w1280"
+      },
+      {
+        "src": "/materials/8873977f64aff67e7d89.jpg",
+        "alt": "Se'kela Sustainable Fashion",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72vBwAndijYwYybDuoOf1H0yjAzr8_Mk5aTGIFRhhi5YQCynKGXw28QKe6fY92-ic1HaRaISBhsAHmyKH5-R_4x9e1kuDqqphjk8D6gEj3WOUgqDellouWsJ3qMzq9RG3GaXTSsBHAwt0re53m3zLnPEo9pTyEl0-D2DWSqd5SiO7z483j2CJ7pTGz5sF7AqfGei3bIuOAsffXEQKaum_Ux-qbk3gfuSWI5J082C_LI=w1280"
+      },
+      {
+        "src": "/materials/4836d8e6a857bb1ce539.jpg",
+        "alt": "Se'kela Sustainable Fashion",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72tNZCTEvhslk_iYI329eLKGJJoBLgd-eGxZYkyS1y6phgGG9Uprcv2jbTmYC3iZXt_zgSBY4pMHt067obDhjNo_AffmE_SI1fWO8XW1yIQPaD_OcHL9bVlc3506BVyk8E68cBCmdSCDnJ4VqIn6tEfi0vLYazmJEUQP6b0yXe8iDd9frECqDycV0MrHdePXP-GHTLzVb6CGAjYnVZp3EnTprISiMKRc_7BL7PzFruU=w1280"
+      },
+      {
+        "src": "/materials/78c0f8dad117605c8b0a.jpg",
+        "alt": "Se'kela Sustainable Fashion",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72vAUgKxUwfEgvzkWwr9IyXn3m-GVf-8IDyTVHn-F1hmnwcPuwAuIjfkxqA3IAbh6U6YJHFpsSpcAzVu1tnzIOj2w8iCDixMgRdjoWyuwm-7zCixx5eIpASX21BeHxtlWY1j_kFX1GrI1gNuaLV-L0PRAvt3uXC_vEKDo1kgHZC-1eaFK8QsXtf4y6EIULWDxudZE5fvvfSMFc19CkGPfJYVfiRym1hipZ2g6kAz_U0=w1280"
+      }
+    ],
+    "embeds": [
+      "https://www.youtube.com/embed/3KpWF4b4dkA",
+      "https://www.youtube.com/embed/7P2U8uYUPh0",
+      "https://pitch.com/v/sekela-3brksz"
+    ],
+    "links": []
+  },
+  {
+    "title": "Snzro",
+    "slug": "entrepreneurial-journey/snzro",
+    "url": "https://sites.google.com/view/sifenmekonnen/entrepreneurial-journey/snzro",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "I have collaborated with my friends in  creating a small business called Snzro. It is focused on crafting unique, eco-friendly toys and pillows. Its central idea is to create sentimental keepsakes by handcrafting one-of-a-kind items from upcycled materials, thereby giving fabric waste a new life. The brand emphasizes personalization to make each piece a heartfelt gift, combining a commitment to sustainability with detailed, quality craftsmanship."
+      }
+    ],
+    "images": [],
+    "embeds": [
+      "https://snzro.pages.dev"
+    ],
+    "links": []
+  },
+  {
+    "title": "Paura Tech - Agriculture",
+    "slug": "entrepreneurial-journey/paura-tech-agriculture",
+    "url": "https://sites.google.com/view/sifenmekonnen/entrepreneurial-journey/paura-tech-agriculture",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "I have participated on a week long startup training program at Adama Science and Technology university prepared by Ministry of innovation and Technology with Innobiz-K, then we proceeded by Business idea pitch competition; I learned a lot the process of refining viable business idea, pitching and collaborating with others."
+      }
+    ],
+    "images": [
+      {
+        "src": "/materials/0129ec50abf9ed0e44b1.jpg",
+        "alt": "Paura Tech - Agriculture",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72uKD6QAbWHZqBesvEDG3XBG5wrN2s_hLlsE4bCrqosZWRd8fgZRDm222M77EFMPW4aiCQMHmFt1r5J5FLVWEnoUeWBwjqk_NpFufSohKba0ZrxJRdvGSfeoPQQrCWjTuYjLZL7iiVbJyL3nEdT1AG-T8P8zrygpN5hhWqmbLBuftszozAeaFBFPpehGtQyec0ve_Lt6md-UvFLh9Uj9M1ZZClvO77DAIXJb8FL-=w1280"
+      },
+      {
+        "src": "/materials/7f5e11824f623473cb01.jpg",
+        "alt": "Paura Tech - Agriculture",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72vnxKzKcGqE3ncdrFBiscfMGZT4Ckx-OxLwpK1Z1qpwVdLTHEXil_rPK3H1PqKr_8Kg-J_70ed0VO3z3C0jePMPUma-wAnyCya1KgjfZLwS_PH4Y6Prwa46z7CPkPcdP9M7H2X3V59XowPgwSUNbrP6boxIpUh_Xf_mmWKGdne1iJ3hSHIAe2un71kDHKBIX1huTzQtTfMLMluH8rFFP1PLe7tRkxgRiRtCw-LGKnU=w1280"
+      },
+      {
+        "src": "/materials/422c9a3eaf73fdc96577.jpg",
+        "alt": "Paura Tech - Agriculture",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72vzOK-hgDxHaWS5RiESu8atDRd3fS57wdDJCzvO18AdWKi_ejbO0nq1Tzc3ZlYr4U3rpfliKOX_ku9Bqm4PvW8iEwowSjUPcsAQJ1d1gHKWNviCUDRHjsZEEXDNQAsnHTBVgclPbHJhoMQ5RBGbovQiHiQipR0k8vHKQFkUnk8AZLXfuNGINK6KopiDS61ZGJCnONuciQyxgK0lPDtKSOGnqOH97Mb9QBQw1eP1U8Q=w1280"
+      },
+      {
+        "src": "/materials/39272795a0cac46eff35.jpg",
+        "alt": "Paura Tech - Agriculture",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72ujYs7tmhjUBKCK03xBK6Zc3s8bUozWx6vvx_6s--7P_NG7NRcQul4P4bMGEKBrT5ux1ALh8wzcuLP3On8rosYGa9xp-uRdOm7oiSOBFqdFjDiOSP6dDITdrodoGJQC06CFBzvFmVnSnNzmXhNUazn1MiMr1w05fOzTSQBtZKazd24n6Sw5KnBGvXIJLJZu_GTX62no4gvRyb2Vnvcucji_9aZ1lVFp7n4UjMrgF1I=w1280"
+      },
+      {
+        "src": "/materials/ea7eb04bdf94aa450f12.jpg",
+        "alt": "Paura Tech - Agriculture",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72u_72gqMCYtpXgmIk9UF8Cw6Qqsp52MSjfcv9OpyU458boWiO1tbt0K6-F2aGEahiI4u7J08jhD6OjBueLrAJHhFrvjmhV5b0zFcTkTq06CdFj725kVW_58im_MgeF_94P35lbIVaG6hJf1Aqf0w7qIil5X9ydQfUPf50oqrBRPkt484jQqYmqTaAuLt2BNdsomVaJA30Wp67ereHpgeV-9-h3QXZMmOE62Wg=w1280"
+      }
+    ],
+    "embeds": [],
+    "links": []
+  },
+  {
+    "title": "ALX Founders Academy",
+    "slug": "entrepreneurial-journey/alx-founders-academy",
+    "url": "https://sites.google.com/view/sifenmekonnen/entrepreneurial-journey/alx-founders-academy",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "ALX Founders Academy is an intensive, cohort-based entrepreneurial program designed to transform innovative ideas into investable, scalable ventures. It functions as a high-impact launchpad, combining practical startup methodologies with real-world mentorship to equip aspiring founders with the skills, mindset, and network needed to build sustainable businesses in Africa and beyond."
+      },
+      {
+        "type": "p",
+        "text": "My participation in the academy was a deep dive into the systematic mechanics of venture creation."
+      }
+    ],
+    "images": [
+      {
+        "src": "/materials/a8eb2dabb142072fed1c.jpg",
+        "alt": "ALX Founders Academy",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72vFNv7Nj1bU84hL438cUZWC3_jGQgHPykdXs0caakvU3dFBexAtu9LrgfQ6W5GrtbKLCW6LTeh49MRuK4l-b0Qj4hV7X-FLEEvqeqQ_VxQZJcUJtcTK4KflDiP_gkOraxb02hUNyjL1fUbD2VuFvabZ4bkuzEG_ldNBFkDoZllKcZxGtDzZv5PSLTbpZi40sT3v5fKHpf9mpojDxT7rfSID5nxePx34-3NvMvBg2Ds=w1280"
+      }
+    ],
+    "embeds": [],
+    "links": []
+  },
+  {
+    "title": "HultPrize AASTU",
+    "slug": "entrepreneurial-journey/hultprize-aastu",
+    "url": "https://sites.google.com/view/sifenmekonnen/entrepreneurial-journey/hultprize-aastu",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "The Hult Prize is the world's largest engine for the creation and launch of disruptive social good businesses. It challenges university students globally to solve our planet's most pressing issues through innovative, for-good, for-profit startups. Each year, a new theme—such as food security, education, or clean energy—focuses the world's brightest young minds on a single critical challenge, with the winning team receiving $1 million in seed funding."
+      },
+      {
+        "type": "p",
+        "text": "My involvement with the Hult Prize at Addis Ababa Science and Technology University (AASTU) was a transformative leadership journey. I served as a Campus Mentor, transitioning from being a competitor to empowering the next wave of student innovators."
+      }
+    ],
+    "images": [
+      {
+        "src": "/materials/cf617c9110a7bc292c87.jpg",
+        "alt": "HultPrize AASTU",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72tMRsb8QNnwyI8AR4LFI4z4l6pORZqIsHdMl68TxLrqAbvkdInVXxFz1E99ebvDp0OQ9k-Qxy25tuQY6_mHnnio3GSSIdeOKjsUjeb1IImO3q2O7ZHqEWh297B62wEia26Mnq9bcEaq_JO37ScY3_8uaMBpitCW3aO7jXkb4NPZgP_Uuks-JMDjdk_TNd9qNvg2kwMMM801iDvbE-s0B0ZtEcaEza9Q9CuFx_08=w1280"
+      },
+      {
+        "src": "/materials/1807e0317ecafeccbbd1.jpg",
+        "alt": "HultPrize AASTU",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72v7ZlXkjJnqcB4A53V-5dosSM1dwycXYitNpETLL00Y1tHhJ-KiV9iNvVIL5i62W_te2nm5KRghvzVUSPns8ezeYE3uoJOvqzGLXAJELJydWq1ykebQe0l_Ri5S0HQLDECtta4TMHjhz8mmwZp7OIq0wXzsLHVSkWTPkeXK9Pj8tE4--dPuy3qt5-leKeL-aBolUe8MdQRPELmbckK3qXsLdH9ZYLrnpH21bIgUqkI=w1280"
+      },
+      {
+        "src": "/materials/10650b609d2f4ee5b86f.jpg",
+        "alt": "HultPrize AASTU",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72uUb75ceKhUDqKpRaqc3_OCxLVO4JWXaxrUANdUZsrzutatdTUihjsxQwXeq0ZrZ2907w2i8K84ygK0WlUS3mmh_NsuuVSankyA-H9Kyka2K-ZdMGwwKZXt6bMDFA4wsOuwHOj1YYzAdFQCtSFQylIjKGdS5UDaV0O00LsOjXwoMR_WK8CW9diVYLounO-uaTKp7CesyMly5JaDNe0LzDPk_YtXSXxXNXz2wyvx=w1280"
+      },
+      {
+        "src": "/materials/d787272356f5521dc010.jpg",
+        "alt": "HultPrize AASTU",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72tUuxikAOltQ-GNIfzulI02s-erMp2UvZ5TorctzTEFA-AfdJXasxb-byQjVWwlIb8v0cwiqEpPfmv9jHrG18D2airLLzQFIsB7thqm2YJG9kwIl86n6txumY0W6wkSTFYN7qmKJ9aUT8s8wQJLeNUiUSJmz87068Igw2z4LMHKpXmtEFmMPYzKo-FuEX_rHJWg6Ax7Su_R3qzKjnbh2Rdm7-fqwkBVP8FyO11syVo=w1280"
+      },
+      {
+        "src": "/materials/e5a170056d6299525c8b.jpg",
+        "alt": "HultPrize AASTU",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72sJFMLnYasxEND57YZMLqw9Jic70g38pZuGzJUQTV7f6ZO-7NbNiEVnT7K51eRIEFPd2G7FkmvSVBmM_9liYq8ErIQRNqW-9zQfcyDe7n_Roq5umNjuZGItSx9Ut4CrS0Sna9o-W7Q5bFWO_vUz2hxDWBHccFhR2AKBxHPE5z0ACzWrulou9D0cl3VxlPkR2I9GrwVtKzluVJWg_Dm4Uf1dOSKu-7TNXm0OuhpYoIs=w1280"
+      },
+      {
+        "src": "/materials/c0c1edb6387d0dafbdd4.jpg",
+        "alt": "HultPrize AASTU",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72u9EGX1m9lVDgADHBu0Y1ROZvUaufseu0HfOGJJ8-SOGgZKysko5ZMRpKYBpcp1Xz6c-j0lhurdI9w8E_w4q3EYEHzGa_yoAASk2R_T1xpyvqu4x9FlsZ4-ueDMYYLB5x-JjU9EPNq5ZsHfPNjfMwIHKp14mNgKU49VetG0lZYRezXIlPlfYUBCWy223sXmOzJvrRAM7a-BFZYXoXwI7JhU0v0ypWVdiqUUscO4a1Q=w1280"
+      }
+    ],
+    "embeds": [],
+    "links": []
+  },
+  {
+    "title": "Physical Fitness",
+    "slug": "physical-fitness",
+    "url": "https://sites.google.com/view/sifenmekonnen/physical-fitness",
+    "blocks": [
+      {
+        "type": "h3",
+        "text": "Physical Fitness: The Discipline of Taekwondo as a Foundational Practice"
+      },
+      {
+        "type": "p",
+        "text": "My approach to physical fitness is not defined by isolated exercise, but by the integrated discipline of Taekwondo—a martial art I have practiced for over a decade, achieving the rank of 2nd Dan Black Belt from the Kukkiwon World Headquarters. This long-term commitment has shaped my understanding of fitness as a holistic system that builds resilience, focus, and character, directly influencing my work in technology and leadership."
+      },
+      {
+        "type": "p",
+        "text": "Taekwondo taught me that true strength is balanced. It requires not just power in a kick (physical health), but the mental clarity to strategize (absorption), the emotional control to persevere (health), and the respect for an opponent that fosters growth (relationships). This mirrors the SHARP leadership framework I studied, proving that peak performance in any field is a full-spectrum endeavor."
+      }
+    ],
+    "images": [
+      {
+        "src": "/materials/0ed39132b130b7dec9aa.jpg",
+        "alt": "Physical Fitness",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72vEo-GK1e5Thx7kKO-75A2Osz9xwIhQqY5vj0NzHHFGzk4NZdW4sae5bi6TDWvSvD1ptpwfat5IPaiq9UPdrZ4Jwlzgg4uHBf_e1lgvS9_Z3VCI3QuqXW2M9QP1uc6aLT7Msn3DEYuGcNE6loR2tM2joKK4VRfMm2YpSswbX8E-r4cnkTCcSATafRB1GBhDIVBI_gUM1fWdoDTOJhUhaOT_71Z0fYHD9mprVvQK=w1280"
+      }
+    ],
+    "embeds": [],
+    "links": []
+  },
+  {
+    "title": "Taekwondo - 1st DAN",
+    "slug": "physical-fitness/taekwondo-1st-dan",
+    "url": "https://sites.google.com/view/sifenmekonnen/physical-fitness/taekwondo-1st-dan",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Taekwondo isn't just a sport I practice—it's a discipline that shaped who I am. Earning my 1st Dan Black Belt wasn't about tying a new belt; it was the result of years of sweat, focus, and resilience. Every kick, every poomsae, and every sparring match taught me that progress comes from persistence. Taekwondo gave me mental clarity, physical strength, and the unshakable belief that mastery is a journey, not a destination. I don't just wear the black belt—I live its principles of courtesy, integrity, perseverance, self-control, and indomitable spirit."
+      },
+      {
+        "type": "p",
+        "text": "I have passed first dan promotion test for Taekwondo on a global level."
+      }
+    ],
+    "images": [
+      {
+        "src": "/materials/169c7a3c87385622d8fe.jpg",
+        "alt": "Taekwondo - 1st DAN",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72umu-nZVyvvy0MyhvqpChTq2gGdNpZZd1y7dptYX-C4l3fsQGIUM9AezhNLa9qA-WqZB31Mhk5j2palLBCSZ8UA5OT63M0dZTCvcQmd84FzegoTzEXK2XTd4BONW_HXRSabMyflKAsawC8V9pewpcKViTrau7HIJ2O1vxt7lr0eEzRL-YmFGijHMOfo7Zku-ALZInHHBoJSjCfOvEHI33GY8v4gm5JfbAUfx-HcmPo=w1280"
+      }
+    ],
+    "embeds": [],
+    "links": []
+  },
+  {
+    "title": "Taekwondo - 2nd DAN",
+    "slug": "physical-fitness/taekwondo-2nd-dan",
+    "url": "https://sites.google.com/view/sifenmekonnen/physical-fitness/taekwondo-2nd-dan",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "I still remember the day I tied on my white belt—clueless but determined. Years later, when my instructor finally wrapped the black belt proceeding to 2nd Dan around my waist, I realized the journey was never about winning trophies. It was about showing up when I was tired, bowing with respect after every loss, and finding calm in chaos. Taekwondo became my meditation, my workout, and my moral compass. The black belt isn't an endpoint—it's a new beginning. And I'm still a student, just with a darker belt."
+      },
+      {
+        "type": "p",
+        "text": "I have passed the 2 nd DAN Test in a global level for Taekwondo."
+      }
+    ],
+    "images": [
+      {
+        "src": "/materials/019657468a3b4c388aab.jpg",
+        "alt": "Taekwondo - 2nd DAN",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72tUEADABMlF1EeJ30RRs2EkMm7P-28Zeai_qbPke641G6P9803KDcgM0eSNE5oTGSDvLYpiCPbShbdc312dJLYc4WLBdcaCTzVkshooW0KYE_zmXy7yJFbXF_sz_Rq1rU5ZL3iWBf29YkQ5RZq8r2MQQ_GEsd0obKmxXmS6R0YGrBFyuz4cfzlDLFq1XQYDmLEEqxv25_lnxzlB3uN_-Ui7U1BB1EcB5-ny_zOQ=w1280"
+      }
+    ],
+    "embeds": [],
+    "links": []
+  },
+  {
+    "title": "Leadership Programs",
+    "slug": "leadership-programs",
+    "url": "https://sites.google.com/view/sifenmekonnen/leadership-programs",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "The moments that changed how I lead were often simple: a conversation that challenged my assumptions, a teammate finding their voice, or a group of strangers learning to trust one another. Through leadership programs, entrepreneurship, and mentorship, I've learned to pay attention to those moments and to the people behind them."
+      },
+      {
+        "type": "h2",
+        "text": "Make room for one another"
+      },
+      {
+        "type": "p",
+        "text": "During a week at RYLA, people I had only just met began to feel like family. Training, sports, and hiking gave us different ways to connect, and I left with a deeper appreciation for what a community can bring out in each person. I carry that lesson into teams: listen carefully, invite different perspectives, and give people room to contribute in their own way."
+      },
+      {
+        "type": "h2",
+        "text": "Put the learning to work"
+      },
+      {
+        "type": "p",
+        "text": "Aspire pushed me to apply leadership lessons to a project. Safelight brought me closer to the practical work of entrepreneurship, while Civics Unplugged helped me see how individual choices connect to wider community life. Together, these experiences made me more thoughtful about the questions I ask before building: who needs this, whose perspective are we missing, and what would make the idea useful?"
+      },
+      {
+        "type": "h2",
+        "text": "Help someone else take the next step"
+      },
+      {
+        "type": "p",
+        "text": "Serving as a Hult Prize Campus Mentor at AASTU gave me a chance to support other student innovators after being a competitor myself. It changed what progress meant to me: helping someone grow in confidence could matter as much as moving my own idea forward. As I continue learning at CMU-Africa, that is the kind of leader I want to become: someone who brings people together and helps good ideas find their way into the world."
+      }
+    ],
+    "images": [],
+    "embeds": [],
+    "links": []
+  },
+  {
+    "title": "UN E-Mentorship",
+    "slug": "leadership-programs/un-e-mentorship",
+    "url": "https://sites.google.com/view/sifenmekonnen/leadership-programs/un-e-mentorship",
+    "blocks": [],
+    "images": [
+      {
+        "src": "/materials/921f2f336d6e6106f85a.jpg",
+        "alt": "UN E-Mentorship",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72uLM0_y92erjGZsV8eYlr0oA8XMEteOoH3nMUSV3moGF-hqjTPCUxgS1vnJUHqKrRx5LVW7NVpEEAuB4jlQjwwau2Po-I_b2kEUBkIEZHlzI4-jqXyvAXfvyGkZeLpf1eRguQvgjqVM0xdsTgB0ItbNncrzUucrc2YwHyqwHQy7lpxFleUJEB3ZiV9DyKBQGzx0nAtEhQtGoPuICfpM44lNfjyFkJJ0ouM0FEXe3wI=w1280"
+      }
+    ],
+    "embeds": [],
+    "links": []
+  },
+  {
+    "title": "Safelight Initiative",
+    "slug": "leadership-programs/safelight-initiative",
+    "url": "https://sites.google.com/view/sifenmekonnen/leadership-programs/safelight-initiative",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "I have participated as the first cohort of Light leadership and Entrepreneurship Academy by being Entrepreneurial leader."
+      }
+    ],
+    "images": [
+      {
+        "src": "/materials/ab6040476b40dc54d4af.jpg",
+        "alt": "Safelight Initiative",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72sySj3V89cW8h2m0S2szfjpl3hH0_uzpdr3B77tXdpUDjIu3aTQDiSr6VE4a1GXgUbojzO32W8BksSCLkiwiyVc0NzCat8JmviQyMVrrwSVO7pqWdWEXX00iazmTC9z5xrtSvQm8DVL5i2Tfjy__tKuJ4eB_Jji8n0GVdCQBuGQiJX-gB4AlYfPVkZYimdgf92rYm-b-fEDqLSc9RfetxVYd3HATdTI_Iq0_jsp=w1280"
+      },
+      {
+        "src": "/materials/f3ad652cc0d8f4c7fce3.jpg",
+        "alt": "Safelight Initiative",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72vGpCbsyWLxJ_WL4I_FIkXtZhjXOh4VPLGMqN0znDjmgNYYBKMLBqJc06KsOUauo5nMpk3vbb_RnvFN5M0cerOMIQ8oN6yseGEzRBhmu-kSEDtE7PIUZ7HmJWSU5UqXUD8qjflZUXuH0iZoF0tFDNSsgslIJ6UKjw1DLHx-23BPU3-ph-fppjuzYfTZO8GBFB-nsYv47fjrrAV0yUcqac2usfLwqNG1iXWcqw=w1280"
+      },
+      {
+        "src": "/materials/4291bb1bc6646d250269.jpg",
+        "alt": "Safelight Initiative",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72vVO2aG_xnMXFw_88ns27m2MBX5o0bCn2U8nHYr-IZ7tBkLyQ5oYmb9g5Ry9MITbHsB1diG90M52pHYEQAEsBQq9ceFSXpD06Xy1gZRyLaDlqHq0KBLc1yBDer_I5rNIcMqDOyK4M8f2tOj4QppS79sdqjBEvMfUpPlUh80T-QByrBP8RNnvHlsm3KnmmFq90UEl6nrzurh0WArRqeHHv0bT2nNNhhBSRkqdlQViWY=w1280"
+      },
+      {
+        "src": "/materials/21b5d664529041f96d29.jpg",
+        "alt": "Safelight Initiative",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72vsgvO-afk596WM_qEaKHMkE1f96skQ0LoBg3W8xNzqfG0VsmCifZ696FnxJfAGZPnGzLO1Oc-1TYmE1iQRHo7xsAa-ZITKQQev5Y_W4Kp6Qw7SNmFrws3ARwhWPdy6TZXyY8m8zkpivHlVunJU5Hux4OKGgzUNM1Mci5MaHzq68iPASNwCPPmBaplEqLa4eaoFyGpP6Lrw-dHtM2QQSIHYKwTJq5ht0kW-DMUtAfs=w1280"
+      },
+      {
+        "src": "/materials/ab9823d54310f3d089ea.jpg",
+        "alt": "Safelight Initiative",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72vbPoHIvPGBp4tMSLuAWueyjg0a7PYFkWiAZucGipcgAuQe3QrhVFbSzqbClQ9D-VrgQ7KMX_hpZuJtWDbEq00ydms7LL7I3hy1H5UWNPeykCsTSJSLhw6AQh4gKo8Sr4FrFIoQY6XgaR9B61vOZ4cmpRe4FUJC3GZIhdO-5p6wu-48b0NCZb5mA3LWRG9uWIWhofopjsXGTqS_M1aBdN_wNkK0jqBsBRbGgJKa=w1280"
+      }
+    ],
+    "embeds": [],
+    "links": []
+  },
+  {
+    "title": "RYLA ZERO",
+    "slug": "leadership-programs/ryla-zero",
+    "url": "https://sites.google.com/view/sifenmekonnen/leadership-programs/ryla-zero",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "I have participated on Rotary Youth Leadership Program that stayed a week long; it was unforgettable moment of time. Starting from spending the week with strangers that became family afterward; it really pushed me to explore who I am, to develop as a leader and see the beauty of being in community. It included from training on various personal growth topics to sports and hiking."
+      }
+    ],
+    "images": [
+      {
+        "src": "/materials/8b6786cf67889dad9928.jpg",
+        "alt": "RYLA ZERO",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72tHCxR33K9yhxsKEp0Mp4YzMBA-pTPowFH7A8huFWjYZ4AN6phe6XZ1_mRrUHssyD-gXSMZKD7nRBthpvOdg4T2K9f__02I5ipPFUdell0bUbc0FCKgzrVlc05pBcw28rMcFphSzBcEFYagdfNzUh6vg2IFkHF6_DjUsnQzN4Jps7cnrmqBPNaIlrKwoLsdcO2391w1cjmpSHnBVsmF6NwemxcEQbUBA0HLcK0UvRU=w1280"
+      },
+      {
+        "src": "/materials/a74ddcfb6f1301f2de1d.jpg",
+        "alt": "RYLA ZERO",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72uaKSgBT6DJ8Z4eYOyrLmDuhvsvKIvwE6ERRGb-rC_S5UEqefbF7LE54kVzwl-OO_uhuUTiBz3f_zP_1LFU0yw2Q5ei5-xbTdXJ9lH0TeaPkucj_-lTu0dRSLmxmjVigVey95HvYE834At4XzUcV65PRLmMREGQlqRqY3PjSkjKpvhuiNggTIX_3iaoKpMIEhO9ToBDcOxmWKPT4cMMSlOikcoZ3OyruTdoUU-cl5I=w1280"
+      },
+      {
+        "src": "/materials/64cf3e596af31b1aab46.jpg",
+        "alt": "RYLA ZERO",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72snprxSd93oJvV8ZMucOrDwT6fnbG2W353fn0pyUC8wtjEqN9b5M4LVw8-9AG-11galQLBe2Zp4Ew06O8IirqOCYhckRE25Otbysu2Iu-DWtHAxTd1A4nGFL5yxhV2f28nK-uIl_CcX6jVDyE5hEoqN0XouXB7goNwnVxIz-A3OVRsQ6m5V6c4RPnvh4JxK7XFXEUW3kdxGaIEGE6El-cEvgCLfc1CAaarQU5Aj38k=w1280"
+      },
+      {
+        "src": "/materials/08ec020bb7a00fb6fe38.jpg",
+        "alt": "RYLA ZERO",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72uM-IEU3HL3fE4JuV0RaIVWGA9WvwMGTJNtBHuAva42id_-8l8pS_yzBdEobhe_JZgxI86oIl3SYllkpRGlTEPos7uVfiju2gmmSNa3mu8VMgHA4uB2StXK1Dba2UJoFOb0gDM2BNs2NgMJ8H2Zi_BVOyB--CpKw-B97ZI1MiMFICgiRRbFTEZyxU1Ia92Kdvuql9V4S8BKWX7B5N1I-4r6a1TwqF12pnrQjGDz=w1280"
+      },
+      {
+        "src": "/materials/f6f0c0fa43e34107a1d7.jpg",
+        "alt": "RYLA ZERO",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72tqPHhSQd9c1PphH4YGEkPtYZGith4At1JIkO1TNqhi5p64Gw0-Y-m9TVn7NW-0pWrdHlO7yB0Nu0eicF9dctvYkfMmiarDbKsfDHZwu7NnpycW5Sd6QONWxO6LsoEUrKD4pGh0YzJAJYi3HwTqw3byDsFB7tqALrS4-r6wXcditiB1LyU1qBL3_RhjG5SNL6fFAOXkkK3GURrRtH97P8_yg2nXGWu26gh_jwoGqiU=w1280"
+      },
+      {
+        "src": "/materials/8f107b4a35855e811557.jpg",
+        "alt": "RYLA ZERO",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72vmQ7mJ43H9EUrun1jN8sGTheajWtwHjZOcNXNRBWXaYx1JOsk-nrRgWHAmzfjReHvGkojhClGMFcB_3NoVaIFo02VBq0VU8LMdbc55Fg2MJXEr7TWbkYxUbfsRNij860ya5UyCa-YCRvI8XyQmlb2_yMrMQ_5UB3T3ChqXN8V9yK7XgPVThUZ8WVRGB6vz1X2UgFdygAcZ501cCW6D36JguvAMn6xwWMoKDeVJ=w1280"
+      },
+      {
+        "src": "/materials/7ffba2295ff8c8af06ca.jpg",
+        "alt": "RYLA ZERO",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72ttZzDKxVcnTQJaApjkY74Qb2BAnewRUNRayQEBH5ZshbSKUn-iLx0hGYTgg5kFB1AtfwGBPHCZAFGZsN-uwnn57Cw0u_lE8fLS0LWh5Gnh32onZ-FJ5TEN9owVbHSsT--QCVMI08giACSAlNlkab0KC4DAh7czdgUw1X_yMUAgrj4EgKEU8IMYm-_gRtyylr65j4Li_rEs1plGgyMAH7gO8xU0YirZnQ06WX_2=w1280"
+      },
+      {
+        "src": "/materials/6019944231ece574a3a3.jpg",
+        "alt": "RYLA ZERO",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72tuB2ubiU_GrLiQ-ki5pSr-qt9ymyOejPg65Y6z2g9RypxUelxo3shSaGZ-c0CWHRZZETq7qp1q_NgGVGveZY2gC7F114v-SeY-gpnXgrSg_NadwEGSx_kFnIJ6EsH0ghOhA-K47otlI2KEz0le34zG_WQ09vjDgQYU3tqN_X5o-cKjB-vyboaCU6gGTUO40eCWdOyCDIh1pIesSYcSNlrtdjNIxlm7ZR_Q8wOnmmM=w1280"
+      }
+    ],
+    "embeds": [],
+    "links": []
+  },
+  {
+    "title": "Aspire Program",
+    "slug": "leadership-programs/aspire-program",
+    "url": "https://sites.google.com/view/sifenmekonnen/leadership-programs/aspire-program",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "I have participated on a global leadership training program prepared by Harvard Business School. I have learned principles of leadership, worked on a project that pushed me to apply what I have learned and became globally competent in my journey of leadership and entrepreneurship."
+      }
+    ],
+    "images": [
+      {
+        "src": "/materials/ee3842b0f1ecc2196c66.jpg",
+        "alt": "Aspire Program",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72vsJL6raWoA4q5bbL6QxEm6Y3poV-vWytZ9zj_shaLpReRHbtKkNhh5KtNCJuYFz4Kuw7Z1wAGswUVNBFwncJ3iR_s1qY-z08DAPUH325Aw6X7Jkj9GbEobKDWBAPNQJhpZkp8NKp5p5YrUn89UwM_vAWGVWZuLfpc-Fgc4tAhBl_A6oXNOvx0wKwSvPZ_NojsjCMRXeHNLjXpIDamyHo6v4vriKMbqxWsD8sJcnZo=w1280"
+      }
+    ],
+    "embeds": [],
+    "links": []
+  },
+  {
+    "title": "Potential Life",
+    "slug": "leadership-programs/potential-life",
+    "url": "https://sites.google.com/view/sifenmekonnen/leadership-programs/potential-life",
+    "blocks": [],
+    "images": [
+      {
+        "src": "/materials/7aa282fe2f2e578e7646.jpg",
+        "alt": "Potential Life",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72usgd7CmtJXFdI-sIopncGb_wJN0A6qfERd6f2WM-g9-ylIEnpGPys8R9yu8HM1BaGAC1T8tXm5PThjzQFJZooqLE3jJSOdUG-yq3ij8AHvY6oXsNLnVUf3F0ip4MU0ogYW7NPwoSPkirCOXVOHZI4n1KiKr3ZLYn12J9jx_7v4ZJ3zvIxCtCxYMNFddF27M9pU7kn8KOihEFq0tsM61AOeYlPOYLqJ-95bQ8VvR1k=w1280"
+      },
+      {
+        "src": "/materials/8683d1e7d9de743ff945.jpg",
+        "alt": "Potential Life",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72v-_H6cLQDB8Z3TV2156S6WCLEt5Ht2NdXNBzjw9XuvWQuKyLkOb5GbUfGCaZR0jyv-E9p0bS3xnoOk5RW_kGYPhXuaeXQEkQast_zCUqhoAZjoF2rk8XRCRmmC67tthYt0lkL2vOqkQN39U5uRj1816hPC8vnlnAkD-AU8mzbOC-68RZOaCJ7_xT64qZJrRb4U2fIWoFUysrYyyRfLzEvJ3Je4ggW1C7FF-fRA9jk=w1280"
+      }
+    ],
+    "embeds": [],
+    "links": []
+  },
+  {
+    "title": "Tech leadership Training by UN Women",
+    "slug": "leadership-programs/tech-leadership-training-by-un-women",
+    "url": "https://sites.google.com/view/sifenmekonnen/leadership-programs/tech-leadership-training-by-un-women",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "I have participated on Tech Leadership Training organized by UN WOMEN. I learned a lot about how technology and leadership are integrated."
+      }
+    ],
+    "images": [
+      {
+        "src": "/materials/5fdf75a5c21673f64eb2.jpg",
+        "alt": "Tech leadership Training by UN Women",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72vFbqpnocdUyS-wAAs6eFeYxq7OE01h7MHN6d9q4-tYIVQXDtOm1xvaC4yQ5YzwfSnRerXGUC_MlQrn19RWK3R91G6f5KueKVrzolKclmGvHY2Ofeu--6rFPnJAQnJAXCV5PNwJrhL3Z-MQCUHC4oDYh7oJTw_wibhGZzSGgdNpAJ3NoBWYwLm251He4jbK63P7RCKoUo0o8WigbMPuwHfopfCyKjwEDzqJpDS4PkA=w1280"
+      }
+    ],
+    "embeds": [],
+    "links": []
+  },
+  {
+    "title": "YALI",
+    "slug": "leadership-programs/yali",
+    "url": "https://sites.google.com/view/sifenmekonnen/leadership-programs/yali",
+    "blocks": [],
+    "images": [
+      {
+        "src": "/materials/f61c6c4a73ea689e363f.jpg",
+        "alt": "YALI",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72sIp5Mvqv5QWJu8DQsyryeNdVO7koo9ugVPl1xCyTMt1Ohzz_KqT7n8qv7QfyOlLWusOHCNCT-mdtLGcIzvdtAlju80JeE1ZtQKgNsz-evKhtIr8mKLSdkwrBW-RCGP3HUEXGYhaZ7BRXWuG0WjfAJLscUwYvax9XNJlSAnBkQkC4Rdl35OQG4YUx8TJyaJP-0-7k6osVzJ1Gp_eKvPO151VV_OnAFtwTfK3XfWeBU=w1280"
+      }
+    ],
+    "embeds": [],
+    "links": []
+  },
+  {
+    "title": "Civics Unplugged Fellowship",
+    "slug": "leadership-programs/civics-unplugged-fellowship",
+    "url": "https://sites.google.com/view/sifenmekonnen/leadership-programs/civics-unplugged-fellowship",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Civics Unplugged is a transformative fellowship program dedicated to empowering Generation Z leaders with the tools, community, and vision to build a brighter future for humanity. It moves beyond traditional civic education by creating a dynamic global community of young people committed to active citizenship, innovative problem-solving, and democratic renewal."
+      },
+      {
+        "type": "p",
+        "text": "My experience as a fellow was a pivotal awakening to my agency within larger societal systems. The program connected my personal drive for impact with the levers of civic engagement, teaching me that leadership extends into community organizing, policy awareness, and collaborative action for the public good. It expanded my perspective from solving discrete technical problems to understanding how to navigate and improve the underlying structures of society."
+      }
+    ],
+    "images": [
+      {
+        "src": "/materials/25cf0d1f49bd05474a46.jpg",
+        "alt": "Civics Unplugged Fellowship",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72ttZTlxOI-6ZkjxvdKUmqfKOAOS_V_dRKWqOQehgul6U4x5v4i0OkOK1cCXeCt3QV_YfTDBml5JTtgJHad26xq9FcWekLG0u9tvdo53qpzYxnZeoJpsGG4HgGverzswfxr2QLw4pc0blvOQT1pkCyZWh-QmtdGfxQ-b_oTpJPI6-SfmXYe7lpB8nVT4hJyrVfrVRRLgoeNIlQ4VyUVBrzMgJywhpaLn0_cQaM0-=w1280"
+      }
+    ],
+    "embeds": [],
+    "links": []
+  },
+  {
+    "title": "Events",
+    "slug": "events",
+    "url": "https://sites.google.com/view/sifenmekonnen/events",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "I am driven by the conviction that technology built in Africa, for Africa, must be built with the entire continent in mind. My journey—from engaging with continental dialogues at events like Africa Celebrates at the UN Economic Commission for Africa to developing blockchain and AI prototypes for local challenges—is guided by this principle. I actively seek to understand shared challenges, from agricultural supply chains to transparent governance, to architect solutions that are locally resonant and broadly relevant."
+      }
+    ],
+    "images": [],
+    "embeds": [],
+    "links": []
+  },
+  {
+    "title": "Africa Celebrates",
+    "slug": "events/africa-celebrates",
+    "url": "https://sites.google.com/view/sifenmekonnen/events/africa-celebrates",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "My participation in the Africa Celebrates event at the United Nations Economic Commission for Africa (ECA) in Addis Ababa was more than an attendance; it was an immersion into the living, breathing spirit of Pan-Africanism. The event, a vibrant convergence of diplomats, artists, entrepreneurs, and innovators from across the continent, served as a powerful catalyst, transforming my abstract belief in \"African solutions for African problems\" into a tangible, collective energy."
+      }
+    ],
+    "images": [
+      {
+        "src": "/materials/d4462bf5dc816c0f9b62.jpg",
+        "alt": "Africa Celebrates",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72t4ovhtk-YhXu_2ISQbqL9bAnj5U-R-iudeRANP78L373F2gTH2RsUgcZT-OtyIT8JqQ46S2w9SsIZmLL9Bbe5mevwaAMMP9RFOOALIBXwABkRNW23_4025Z7kRFFbkg332ojlMUUqa89I19m4MId_qqo7nawBbXtMLYzZQD-jYNH8N4sQIVVUQEiUGaiCfj6SEw_TkyC9oMtUKQagVSkz3Fo5ZEsRR7Cx8-nfXlxY=w1280"
+      },
+      {
+        "src": "/materials/87ebb7b522a8d5b38346.jpg",
+        "alt": "Africa Celebrates",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72u71J4_sYZRGxukjFMSwDy896ZAW43XUH5_t_j4IHUS2vXCgeNfpAFVOaoX2XH912hVcaCgdz7Wh-BfJb-ednwHjvI2xmBwgjecceoy6rsy-AjgzUNF9KS_SmrggxWgbU3tQWeALbnXMNhDCLVLLGiE7xl4fJmjBMaDMZomkf1GfvwUUifNvJa5kOa8yrvU1DZl4iv4RoLUo3OzoXFpVNHE-sc_eEluGJTuGflfMJ4=w1280"
+      },
+      {
+        "src": "/materials/43afdf11ccbffac06a21.jpg",
+        "alt": "Africa Celebrates",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72tV-AQH60CLObPC2X0Wkjm7oe7mlPFNvR-2_31lL3WVIGQTnBsKZncf5ptdzHPVwfSisIRRfBiENuWmQGDVIlAkW-5oyQWbVyqSeeJc7ZAaPdulIM3bJyA7nFKiZlW9zyynM1Ekjd2C-ECllPdilK8zOqm6X4y8Sqs9U-3R2FTu6y9ZlaDk1-Qx-Lw5ZRMdRe042Ac6JxEGWXLNHoQ3ahGG0rye_RUm6smuk3wY=w1280"
+      }
+    ],
+    "embeds": [],
+    "links": []
+  },
+  {
+    "title": "AASTU Recognitions",
+    "slug": "aastu-recognitions",
+    "url": "https://sites.google.com/view/sifenmekonnen/aastu-recognitions",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Presidential Award"
+      },
+      {
+        "type": "p",
+        "text": "Achieving a perfect 4.0 semester GPA"
+      },
+      {
+        "type": "p",
+        "text": "The highest level of academic distinction at the university, reserved for students who demonstrate exemplary mastery across all subjects in a given term."
+      },
+      {
+        "type": "p",
+        "text": "Dean's Award"
+      },
+      {
+        "type": "p",
+        "text": "Consistent academic excellence and high cumulative performance."
+      },
+      {
+        "type": "p",
+        "text": "Recognition of sustained scholarly effort, leadership within the faculty, and overall contribution to the academic community."
+      },
+      {
+        "type": "h3",
+        "text": "✨ The Bigger Picture"
+      },
+      {
+        "type": "p",
+        "text": "These are not just awards; they are validators of my disciplined approach and intellectual rigor. Earning a perfect 4.0 GPA, especially in a demanding software engineering curriculum, demonstrates an exceptional capacity for complex problem-solving, meticulous work, and deep understanding."
+      }
+    ],
+    "images": [],
+    "embeds": [],
+    "links": []
+  },
+  {
+    "title": "Presidential Award",
+    "slug": "aastu-recognitions/presidential-award",
+    "url": "https://sites.google.com/view/sifenmekonnen/aastu-recognitions/presidential-award",
+    "blocks": [],
+    "images": [
+      {
+        "src": "/materials/820bff040de7f341e589.jpg",
+        "alt": "Presidential Award",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72tlxr2qyHQo4kv5MXhBxIZIhVK9X_2C_xgwf705UwB6sY_194KdsAuoaRXyDGTFwdR8x128Qq-_h3hniHluSpLyA02q5WBn6glwdnwTwGAp4yIVQPfzQLDbi0kBZizf_O754TEn0jbs27zsyYnqedCzcgNfA48sSyRCEFmG54RPgcAgGBKPbmsppltNzawf6cH6NYqh3MfPkOTQgEMf18goNrmUbbvIJSovJKV4-Us=w1280"
+      }
+    ],
+    "embeds": [],
+    "links": []
+  },
+  {
+    "title": "Dean Award",
+    "slug": "aastu-recognitions/dean-award",
+    "url": "https://sites.google.com/view/sifenmekonnen/aastu-recognitions/dean-award",
+    "blocks": [],
+    "images": [
+      {
+        "src": "/materials/aefa676016fa0a16baef.jpg",
+        "alt": "Dean Award",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72tubjUYVrY8r6SNh3l1d2Y4tRwBMrj6vN1TiFbqvzdvXluU57patayfNwIlEUdIjjEqWN616PLGip_GbwZnKm-uuTH_3JGppZXt25ZFZAJiM1_Dyq1FVghm3N5D31tSFLZt2VCGlg1bze4WoBAM8VoLWbLmWZtH5DNhjrBD1tgQ7uWunCtmumIdZDsrCzo6NA3shJrGURPlyNwWu_ynkwDxUhBWGUb9Pt6T03yzVGM=w1280"
+      }
+    ],
+    "embeds": [],
+    "links": []
+  },
+  {
+    "title": "Women Leadership",
+    "slug": "aastu-recognitions/women-leadership",
+    "url": "https://sites.google.com/view/sifenmekonnen/aastu-recognitions/women-leadership",
+    "blocks": [],
+    "images": [
+      {
+        "src": "/materials/478df7b1959e0bf282a9.jpg",
+        "alt": "Women Leadership",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72sTZWuBnofoQgjs0PV0-I2TySogHmFVsl63iVCLicrUwve50-z9xxfneahPvrA6OiN1y2fYYoKIbDJZq4Zlfe6cX1MhIp1Th6ulav-ErvTdd033nC6lmdP8aMemGEGmyYdqqnJkQillfVmBlmHPgEH0rZFg1zKPz4N6rfZQ39RCjGyvluvRC2FQSlPsUNwgBXoGKRJZQAayO7M-TlBidORt8e-HqUW95K-LlTqwFUk=w1280"
+      }
+    ],
+    "embeds": [],
+    "links": []
+  },
+  {
+    "title": "Certificates of Achievement From Elementary to Highschool",
+    "slug": "certificates-of-achievement-from-elementary-to-highschool",
+    "url": "https://sites.google.com/view/sifenmekonnen/certificates-of-achievement-from-elementary-to-highschool",
+    "blocks": [],
+    "images": [
+      {
+        "src": "/materials/9e875b6a3cbeb9e6fec5.jpg",
+        "alt": "Certificates of Achievement From Elementary to Highschool",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72sb2lEcHU_LIPAsZRUSuNpTa28Iw6RmeGi25j7oxJp5kwD7I6idDBT6jUvXmdWSd6Y9WXYlBp_BdkLKW2dDiLmHeYSfyeuwS7vo2vDwq9Dyo3waVX5ebPJTcmlgV8dpocGZMi5eyyzTIgsdmrYkX0TEfBMpQPUrdHG4MgmSEDbu7Z4oU-pkiAv3vZpMwCJkA0jg074eKAn2EVtNdjbac6hDz7R5FdDx1uWY-dmK_eU=w1280"
+      },
+      {
+        "src": "/materials/8087596099eb85fb0797.jpg",
+        "alt": "Certificates of Achievement From Elementary to Highschool",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72uFCoOOB2qlUhHTaYpOqztZ2S_KwgYZdPwWrWeDjaqP3oSELAO6S1v6w91PoLgyTojPjonlg-5-Lam3wjYyUazr0bxbrK_lEJlQS-mkumGBtsNdLmB2bsnjH7nViXqRGDZXid4jEmvv78Q9cu1IChIdaeKE8q0NeG7G4g164SdwBldEtraSy-bQ7LUeRpxLp3l6Bb8snj9kbBiRwyrL7BW61alQCZg8ezoQ_C5bgts=w1280"
+      },
+      {
+        "src": "/materials/dfeef3018ec466839376.jpg",
+        "alt": "Certificates of Achievement From Elementary to Highschool",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72u3BkbA0TT5TD_Mmq2vH5nI30ToB65k77e67i5Z6KiN4fipoRqjEsU5fuwoFTYJz_FahQaRr_s3FntGz-wERXrsTp5gpfQRT6O1t9vKfy2dP2OHuXSQFcJNo5qf5oCsJ1-7glKzBVRBb1PaPn5hZakefFYwB8mR2aIJtu3WlTAvWeven_DGlIVG4pAc-Aak4CCjDGcb5PcDVaQPEC6II0SnX7NOl43nFZvOz0hZ=w1280"
+      },
+      {
+        "src": "/materials/3c76584341a699bdcaf7.jpg",
+        "alt": "Certificates of Achievement From Elementary to Highschool",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72uGsNC3O5JD7-gRYY2wwDW6hDylKQbzlvr7ck5TwDUWwNMmYqqU8IE1m4QXtazmlRphufVBZzWsZRaHjEBt-zK4z1ZdPd8qaJIwCDnJ28s8t_vLotNIWVdmfqw3DMt3Xbqpx8U8ouHyNBPydf3o67APuQc1cVKk5gfsJ9rVVLu6ijAhdrSLDvsQbkI7WdjiK3YMoQnbcrXI7PdUlZinYN2zp2sd6jogQdUrsq6_=w1280"
+      },
+      {
+        "src": "/materials/f961254bf566a07d0917.jpg",
+        "alt": "Certificates of Achievement From Elementary to Highschool",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72tWnXc4Ngw-qL-brIRn7nUev8dFk-vEXjhz8KTM-n6IpovGGm70rG39Y_sy6DmGk6a6Y3_OG-g_PefDo-uVCLc3o_3qyoEWNIE6ZrO-J2N4bEzZTzUUSUGc3KhTc5VYDIzZIR4OOxqqgJeecSoDLQ4xNoJ2d-yl9JhumDMoLKRM1nz3ldA3Ot0sbkQCosgYJNvB5cLTFXx-LaJf4qlSGi8QSdUxxNV0RUK8-ZjQ=w1280"
+      }
+    ],
+    "embeds": [],
+    "links": []
+  },
+  {
+    "title": "English Proficiency",
+    "slug": "english-proficiency",
+    "url": "https://sites.google.com/view/sifenmekonnen/english-proficiency",
+    "blocks": [],
+    "images": [
+      {
+        "src": "/materials/f0ba77d280acc1ea58ce.jpg",
+        "alt": "English Proficiency",
+        "original": "https://sites.google.com/sitesv-images-rt/AMxu72telIVUN1D3WiLiXXths1xCboxVyfxzU6rjLOI9wzRS7CpRn5PBQFh9i51ykGAjVOvwJXSXq7D_GGlVI9kJwbAoply9eTyZogDm_pDFdwA_oFI6M43dGuWXI8FGuJS4QkuXyxAoWZVCE10QPQTMRHiVvQh6sSPGYVkvEj-zgLjLGZpkiXVoAz4CwsnEnMPdSv0CGUwQhtEs7ywuFC1ff_yEoFucoEEiXGGRRlc5=w1280"
+      }
+    ],
+    "embeds": [],
+    "links": []
+  }
+]
