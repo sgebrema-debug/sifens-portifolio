@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Sifen's Funded Opportunities Tracker</title>
+<style>
+  :root {
+    --bg: #0f1420;
+    --panel: #171d2e;
+    --panel-2: #1f2740;
+    --border: #2a3250;
+    --text: #e7ecf5;
+    --muted: #9aa6c0;
+    --accent: #6ea8fe;
+    --accent-2: #8b7cff;
+    --green: #35c589;
+    --amber: #f3b64b;
+    --red: #ff6b6b;
+    --chip: #232b44;
+    --shadow: 0 6px 24px rgba(0,0,0,.35);
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background: radial-gradient(1200px 600px at 20% -10%, #1b2440 0%, var(--bg) 55%);
+    color: var(--text);
+    line-height: 1.45;
+  }
+  header {
+    padding: 28px 24px 18px;
+    border-bottom: 1px solid var(--border);
+  }
+  h1 { margin: 0 0 4px; font-size: 24px; letter-spacing: .2px; }
+  .sub { color: var(--muted); font-size: 14px; }
+  .wrap { max-width: 1240px; margin: 0 auto; padding: 0 24px; }
+
+  /* Stats */
+  .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px,1fr)); gap: 12px; margin: 20px 0; }
+  .stat {
+    background: var(--panel); border: 1px solid var(--border); border-radius: 12px;
+    padding: 14px 16px; box-shadow: var(--shadow);
+  }
+  .stat .n { font-size: 26px; font-weight: 700; }
+  .stat .l { color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: .6px; }
+  .stat.urgent .n { color: var(--red); }
+  .stat.soon .n { color: var(--amber); }
+  .stat.done .n { color: var(--green); }
+
+  /* Controls */
+  .controls { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin: 14px 0 6px; }
+  input[type="search"], select {
+    background: var(--panel-2); color: var(--text); border: 1px solid var(--border);
+    border-radius: 10px; padding: 10px 12px; font-size: 14px; outline: none;
+  }
+  input[type="search"] { flex: 1 1 260px; min-width: 220px; }
+  input[type="search"]:focus, select:focus { border-color: var(--accent); }
+  .controls label { color: var(--muted); font-size: 12px; margin-right: 2px; }
+  button.reset {
+    background: transparent; color: var(--muted); border: 1px solid var(--border);
+    border-radius: 10px; padding: 10px 14px; cursor: pointer; font-size: 13px;
+  }
+  button.reset:hover { color: var(--text); border-color: var(--accent); }
+
+  /* Category tabs */
+  .tabs { display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0 18px; }
+  .tab {
+    background: var(--chip); border: 1px solid var(--border); color: var(--muted);
+    padding: 7px 13px; border-radius: 999px; cursor: pointer; font-size: 13px; white-space: nowrap;
+  }
+  .tab.active { background: linear-gradient(135deg, var(--accent), var(--accent-2)); color: #0b0f1a; border-color: transparent; font-weight: 600; }
+  .tab .cnt { opacity: .7; margin-left: 4px; font-size: 11px; }
+
+  /* Category group */
+  .group-title {
+    font-size: 15px; font-weight: 700; margin: 26px 0 10px; color: var(--text);
+    display: flex; align-items: center; gap: 10px;
+  }
+  .group-title .bar { width: 4px; height: 18px; border-radius: 3px; background: linear-gradient(var(--accent), var(--accent-2)); }
+  .group-title .gc { color: var(--muted); font-weight: 500; font-size: 12px; }
+
+  /* Cards */
+  .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(360px,1fr)); gap: 14px; }
+  .card {
+    background: var(--panel); border: 1px solid var(--border); border-radius: 14px;
+    padding: 16px; box-shadow: var(--shadow); position: relative; display: flex; flex-direction: column;
+  }
+  .card.closed { opacity: .62; }
+  .card .top { display: flex; justify-content: space-between; gap: 10px; align-items: flex-start; }
+  .card h3 { margin: 0; font-size: 15.5px; }
+  .card .id { color: var(--muted); font-size: 11px; font-weight: 600; }
+  .badges { display: flex; flex-wrap: wrap; gap: 6px; margin: 10px 0; }
+  .badge { font-size: 11px; padding: 3px 8px; border-radius: 6px; border: 1px solid var(--border); background: var(--chip); color: var(--muted); }
+  .badge.fund { color: #bfe3ff; border-color: #2d5a85; }
+  .badge.star { color: var(--amber); border-color: #6b5420; }
+  .deadline { font-size: 13px; margin: 2px 0 8px; }
+  .deadline .dl { font-weight: 700; }
+  .deadline.urgent .dl { color: var(--red); }
+  .deadline.soon .dl { color: var(--amber); }
+  .deadline.open .dl { color: var(--green); }
+  .deadline.closed .dl { color: var(--muted); text-decoration: line-through; }
+  .notes { color: var(--muted); font-size: 13px; margin: 0 0 12px; flex: 1; }
+  .card .foot { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-top: auto; }
+  .status-select {
+    font-size: 12px; padding: 6px 8px; border-radius: 8px; background: var(--panel-2);
+    border: 1px solid var(--border); color: var(--text);
+  }
+  .link { color: var(--accent); font-size: 12px; text-decoration: none; }
+  .link:hover { text-decoration: underline; }
+  .statusdot { width: 9px; height: 9px; border-radius: 50%; display: inline-block; margin-right: 6px; background: var(--muted); }
+  .s-interested { background: var(--accent); }
+  .s-applying { background: var(--amber); }
+  .s-applied { background: var(--accent-2); }
+  .s-accepted { background: var(--green); }
+  .s-skip { background: #556; }
+  .s-none { background: var(--muted); }
+  .empty { color: var(--muted); padding: 40px; text-align: center; }
+  footer { color: var(--muted); font-size: 12px; padding: 30px 24px 50px; text-align: center; }
+  .pill-row { display:flex; gap:6px; flex-wrap:wrap; }
+  @media (max-width: 520px){ .cards{ grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <h1>🎯 Funded Opportunities Tracker</h1>
+    <div class="sub">Sifen Mekonnen Gebremariam · CMU-Africa MSIT (AI) · Kigali, Rwanda · <span id="today"></span></div>
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="stats" id="stats"></div>
+
+  <div class="controls">
+    <input type="search" id="search" placeholder="Search opportunities, funding, notes…" />
+    <label>Status</label>
+    <select id="statusFilter">
+      <option value="">All statuses</option>
+      <option value="none">Not started</option>
+      <option value="interested">Interested</option>
+      <option value="applying">Applying</option>
+      <option value="applied">Applied</option>
+      <option value="accepted">Accepted</option>
+      <option value="skip">Skip</option>
+    </select>
+    <label>Urgency</label>
+    <select id="urgencyFilter">
+      <option value="">All</option>
+      <option value="urgent">Urgent (≤14 days)</option>
+      <option value="soon">Soon (≤45 days)</option>
+      <option value="open">Open / later</option>
+      <option value="closed">Closed</option>
+    </select>
+    <label>Sort</label>
+    <select id="sort">
+      <option value="deadline">By deadline</option>
+      <option value="category">By category</option>
+      <option value="name">By name</option>
+    </select>
+    <button class="reset" id="reset">Reset</button>
+  </div>
+
+  <div class="tabs" id="tabs"></div>
+  <div id="content"></div>
+</div>
+
+<footer class="wrap">
+  Data compiled Oct 16, 2026 from live web searches. <strong>Always verify deadlines & eligibility on the official site before applying.</strong><br/>
+  Your status choices are saved locally in this browser (localStorage). No data leaves your device.
+</footer>
+
+<script>
+/* ---------------- DATA: all 48 opportunities ---------------- */
+// urgency is computed from `due` (ISO date) when present; `state` overrides: 'closed' | 'rolling' | 'watch'
+const TODAY = new Date("2026-10-16T00:00:00");
+
+const CATEGORIES = [
+  "Fellowships",
+  "Funded Training / Apprenticeships",
+  "Grants, Competitions & Challenges",
+  "Hackathons",
+  "AI Research / Internships",
+  "Conferences w/ Travel Grants",
+  "Women-in-Tech Programs",
+  "UN / African Union Youth",
+  "Blockchain / Web3 Grants",
+  "Master's / PhD Scholarships",
+  "Remote Jobs & Boards"
+];
+
+const DATA = [
+  // 1. Fellowships
+  {id:1, cat:"Fellowships", name:"Transfyr AI Fellowship 2026–2027", funding:"Fully funded, up to $125,000", due:null, state:"rolling", dueText:"Rolling; Aug 15 for full consideration — confirm next cycle", notes:"Top match for grad students in AI; skews deep-ML research.", url:"https://fellowship.transfyr.ai", star:false},
+  {id:2, cat:"Fellowships", name:"Code for Africa – AI for Good Fellowship 2026", funding:"Paid stipend (~$500/mo), remote", due:null, state:"watch", dueText:"Check current call", notes:"For African technologists applying AI to real problems — strong fit.", url:"https://opportunities.codeforafrica.org", star:false},
+  {id:3, cat:"Fellowships", name:"NetHope Humanitarian AI Research Fellowship 2026/27", funding:"Part-time, remote, internationally open", due:null, state:"watch", dueText:"Posted Oct 5, 2026 — likely open", notes:"Remote + global; social-impact AI; stacks with CMU studies.", url:"", star:false},
+  {id:4, cat:"Fellowships", name:"Cybersafe x SANS AI Security Fellowship 2026", funding:"Fully funded, 9-month training + cert", due:null, state:"watch", dueText:"Check", notes:"For experienced African women in cybersecurity; gap = needs security background.", url:"", star:false},
+  {id:11, cat:"Fellowships", name:"Jim Leech Mastercard Foundation Fellowship on Entrepreneurship 2027", funding:"Training + mentorship + $500 CAD stipend; pitch prizes up to $15,000 CAD", due:"2026-12-01", dueText:"Dec 1, 2026, 12:59 PM ET (confirmed)", notes:"⭐ 8-month program built for your founder profile; African students/recent grads; Ethiopia eligible; decisions end of Dec 2026.", url:"https://opportunitydesk.org/2026/09/25/jim-leech-mastercard-foundation-fellowship-on-entrepreneurship-2027/", star:true},
+  {id:31, cat:"Fellowships", name:"AU Digital & Innovation Fellowship 2026–2027", funding:"12-mo placement: financial support + capacity building + intl exposure", due:null, state:"watch", dueText:"Verify current window vs next cohort (Cohort 3 started Apr 2026)", notes:"⭐ Embeds tech talent in AU institutions (enpact + GIZ). Full-Stack Developer track (WGYD, Addis Ababa) = near-perfect fit; Ethiopia eligible.", url:"https://au.int", star:true},
+  {id:35, cat:"Fellowships", name:"Africa Blockchain Festival (ABF) Fellowship 2026", funding:"Investor/VC/mentor connections", due:null, state:"watch", dueText:"Check", notes:"Blockchain + AI founders — matches LandChain/Afrochain work.", url:"", star:false},
+  {id:36, cat:"Fellowships", name:"Ethereum Foundation ESP PhD/Academic Fellowship", funding:"~$24,000/yr supplement", due:null, state:"closed", dueText:"Cited round closed Apr 2026", notes:"Future route if blockchain research PhD.", url:"", star:false},
+
+  // 2. Funded Training / Apprenticeships
+  {id:5, cat:"Funded Training / Apprenticeships", name:"AmaliTech Apprenticeship — Rwanda", funding:"Funded (DEG Impulse); 6-mo full-time; can convert to a job", due:null, state:"rolling", dueText:"Cohorts ~every 3 mo (Nov/Mar/Jun/Sep) → watch Nov/Dec 2026", notes:"⭐ Local (Kigali), 2026 grad; tracks incl. JavaScript full-stack and Python backend + AI app dev — tailor-made.", url:"https://www.opportunitiesforafricans.com/the-amalitech-apprenticeship-programme-2026-rwanda-for-young-africans/", star:true},
+  {id:6, cat:"Funded Training / Apprenticeships", name:"Google Africa Applied AI Lab (AI Futures Fund)", funding:"Mentorship + DeepMind models + GTM support", due:null, state:"closed", dueText:"2026 window Jul 1–Aug 31 (closed) — watch next cohort", notes:"Accra, Ghana; founders/researchers.", url:"", star:false},
+  {id:7, cat:"Funded Training / Apprenticeships", name:"MEST AI Startup Program 2027", funding:"Fully sponsored; 7-mo training + 4-mo incubation", due:null, state:"watch", dueText:"Check", notes:"AI founders in Africa; requires relocation + full-time.", url:"", star:false},
+
+  // 3. Grants, Competitions & Challenges
+  {id:15, cat:"Grants, Competitions & Challenges", name:"Agentic Africa Challenge", funding:"Top 40 mentorship; top 10 funded MCP Summit Nairobi; Best Women-led award", due:"2026-10-15", state:"closed", dueText:"CLOSED — was Oct 15, 2026", notes:"Check official page for extension/next cohort. Was: devs 18+ any African country, teams ≤3, open-source MCP server (≥3 tools); tracks incl. climate-smart ag, health, education, fintech.", url:"https://www2.fundsforngos.org/individuals/entries-open-for-agentic-africa-challenge/", star:false},
+  {id:16, cat:"Grants, Competitions & Challenges", name:"Innovate Africa Challenge 2026 (FAO e-agriculture)", funding:"Support for a proven AI Climate-Smart Ag solution", due:"2026-08-31", state:"closed", dueText:"Closed Aug 31, 2026 — watch next edition", notes:"You worked with FAO at Reboot the Earth — strong continuity.", url:"https://www.fao.org/e-agriculture/", star:false},
+  {id:17, cat:"Grants, Competitions & Challenges", name:"AYuTe Africa Challenge (Heifer Intl)", funding:"Up to $40,000 cash + mentorship (per country edition)", due:null, state:"watch", dueText:"Uganda ed. was Jul 24, 2026", notes:"Youth agritech; watch Ethiopia/Rwanda/pan-African edition.", url:"", star:false},
+  {id:18, cat:"Grants, Competitions & Challenges", name:"AWS Agentic AI Grant (Amazon Research Awards, Fall 2026)", funding:"Research grants for AI agents", due:"2026-11-04", dueText:"Nov 4, 2026, 11:59 PM PT (open Oct 1–Nov 4; decisions Feb 2027)", notes:"Research-leaning; pair with CMU faculty/project.", url:"https://amazon.science/research-awards/call-for-proposals/aws-agentic-ai-call-for-proposals-fall-2026", star:false},
+
+  // 4. Hackathons
+  {id:19, cat:"Hackathons", name:"AWS CDS Agentic AI Partner Hackathon", funding:"Cash prizes (Devpost)", due:"2026-10-28", dueText:"Submissions Sep 14 – Oct 28, 2026 (1:00 PM PT)", notes:"Closing soon — quick win using your hackathon strength.", url:"https://aws-cds-partner.devpost.com/", star:false},
+  {id:20, cat:"Hackathons", name:"PayPal AI Hackathon", funding:"Cash prizes (Devpost)", due:null, state:"watch", dueText:"Winners ~Dec 21, 2026; build window open", notes:"Build and submit online.", url:"https://devpost.com", star:false},
+  {id:21, cat:"Hackathons", name:"Nebius × NVIDIA Global AI Hackathon", funding:"Cash prizes (Devpost)", due:null, state:"watch", dueText:"Check", notes:"Build AI on open infrastructure.", url:"https://devpost.com", star:false},
+  {id:22, cat:"Hackathons", name:"ForgeHacks Online 2026", funding:"Cash prizes (Devpost)", due:null, state:"watch", dueText:"Check", notes:"Student-focused; AI for real-world problems.", url:"https://devpost.com", star:false},
+  {id:23, cat:"Hackathons", name:"LIVE AI Ivy Plus 2026", funding:"Prizes + internship/job offers + accelerator", due:null, state:"watch", dueText:"Check", notes:"Prizes plus recruiting + accelerator consideration.", url:"https://devpost.com", star:false},
+
+  // 5. AI Research / Internships
+  {id:24, cat:"AI Research / Internships", name:"Google DeepMind Student Researcher Program", funding:"Paid", due:null, state:"rolling", dueText:"Rolling", notes:"Competitive; you're an AI master's student.", url:"", star:false},
+  {id:25, cat:"AI Research / Internships", name:"Univ. of Cambridge AI Research Internship 2026", funding:"Funded", due:null, state:"watch", dueText:"Check", notes:"Open to international students.", url:"", star:false},
+  {id:26, cat:"AI Research / Internships", name:"Big-tech AI/ML summer internships (2027)", funding:"Paid ($40–85/hr at top labs)", due:null, state:"watch", dueText:"Most opened Aug–Oct 2026", notes:"OpenAI, Anthropic, DeepMind, Meta AI, MSR, NVIDIA; mostly in-person US/UK/Canada (visa).", url:"", star:false},
+
+  // 6. Conferences with Travel Grants
+  {id:27, cat:"Conferences w/ Travel Grants", name:"Deep Learning Indaba 2026 — Lagos, Nigeria", funding:"Free for students; travel + accommodation grants (not guaranteed)", due:null, state:"watch", dueText:"Aug 2–7, 2026", notes:"⭐ Africa's flagship ML/AI gathering; apply as participant & request funding.", url:"https://deeplearningindaba.com", star:true},
+  {id:28, cat:"Conferences w/ Travel Grants", name:"NeurIPS 2026 Financial Assistance", funding:"Travel/registration support", due:null, state:"watch", dueText:"Check", notes:"Priority to students who are primary contributors to accepted work.", url:"https://neurips.cc", star:false},
+  {id:29, cat:"Conferences w/ Travel Grants", name:"MCP Dev Summit Nairobi 2026", funding:"Travel funding (coach airfare + accommodation)", due:"2026-10-11", state:"closed", dueText:"Travel-funding deadline was Oct 11, 2026 (CLOSED); event Nov 19, 2026", notes:"LF prioritizes underrepresented/untapped groups; notifications by Oct 23.", url:"https://events.linuxfoundation.org/mcp-dev-summit-nairobi/", star:false},
+
+  // 7. Women-in-Tech Programs
+  {id:12, cat:"Women-in-Tech Programs", name:"Women in Tech Accelerator Kenya – Cohort 9", funding:"$10,000 equity-free grant + accelerator", due:null, state:"watch", dueText:"Check", notes:"Best if Se'kela/Snzro is an active startup.", url:"", star:false},
+  {id:13, cat:"Women-in-Tech Programs", name:"Her Startup – Cohort 2", funding:"Accelerator", due:null, state:"watch", dueText:"Check", notes:"Needs operating, revenue-generating business (≥$500/mo).", url:"", star:false},
+  {id:14, cat:"Women-in-Tech Programs", name:"Women Techsters Fellowship (Tech4Dev)", funding:"FREE 1-yr upskilling", due:null, state:"watch", dueText:"Check", notes:"Verify Ethiopia/Rwanda eligibility (historically Nigeria-heavy).", url:"", star:false},
+
+  // 8. UN / African Union Youth
+  {id:32, cat:"UN / African Union Youth", name:"African Union Internship Program 2026", funding:"Internship (stipend varies)", due:null, state:"watch", dueText:"Check", notes:"Students/recent grads from AU member states (Ethiopia ✅); often Addis Ababa.", url:"https://au.int", star:false},
+  {id:33, cat:"UN / African Union Youth", name:"AU Youth Volunteer Corps (AUYVC) – Cohort 13", funding:"Volunteer placement + stipend", due:null, state:"closed", dueText:"Cohort 13 ran Mar–Apr 2026 (likely closed); watch Cohort 14", notes:"Watch for Cohort 14 call.", url:"https://au.int", star:false},
+  {id:34, cat:"UN / African Union Youth", name:"UN Young Professionals Programme (YPP) 2026", funding:"UN entry-level professional role", due:null, state:"watch", dueText:"Opens ~June via Inspira", notes:"No experience required; nationals of participating countries (verify Ethiopia).", url:"https://careers.un.org", star:false},
+
+  // 9. Blockchain / Web3 Grants
+  {id:37, cat:"Blockchain / Web3 Grants", name:"Solana Foundation Ecosystem Grants", funding:"Varies", due:null, state:"rolling", dueText:"Rolling", notes:"Anyone can apply (individuals, teams, universities).", url:"https://solana.org/grants", star:false},
+  {id:38, cat:"Blockchain / Web3 Grants", name:"General Web3 ecosystem grants", funding:"$5,000–$50,000 (some to $150k)", due:null, state:"rolling", dueText:"Rolling", notes:"Trackers: web3grant.com, rocknblock.io roundups.", url:"https://web3grant.com", star:false},
+  {id:39, cat:"Blockchain / Web3 Grants", name:"AfriLeap — Web3 Laptop Grant", funding:"$200", due:null, state:"watch", dueText:"Check", notes:"Low-effort win for African students (Solana).", url:"", star:false},
+
+  // 10. Master's / PhD Scholarships
+  {id:40, cat:"Master's / PhD Scholarships", name:"DAAD In-Country/In-Region Masters/PhD 2027", funding:"Fully funded", due:"2026-11-12", dueText:"Nov 12, 2026 (confirmed)", notes:"⭐ Study within Sub-Saharan Africa; Ethiopia eligible.", url:"https://www.opportunitiesforafricans.com/the-daad-in-country-in-region-masters-phd-scholarship-programme-2027/", star:true},
+  {id:41, cat:"Master's / PhD Scholarships", name:"DAAD (Germany) EPOS & dev scholarships", funding:"Tuition + stipend + insurance + travel", due:null, state:"watch", dueText:"Varies", notes:"Second master's or PhD in CS/AI.", url:"https://daad.de", star:false},
+  {id:42, cat:"Master's / PhD Scholarships", name:"Erasmus Mundus Joint Masters 2027", funding:"Fully funded (tuition + stipend + travel)", due:null, state:"watch", dueText:"Many Oct 2026–Jan 2027", notes:"⭐ 37 new programs; Sept 2027 start; no nationality bar.", url:"https://erasmus-plus.ec.europa.eu", star:true},
+  {id:43, cat:"Master's / PhD Scholarships", name:"Chevening (UK)", funding:"Fully funded UK master's", due:"2026-10-06", state:"closed", dueText:"2027/28 CLOSED Oct 6, 2026", notes:"Apply next cycle (~Aug 2027); needs ~2 yrs experience.", url:"https://chevening.org", star:false},
+  {id:44, cat:"Master's / PhD Scholarships", name:"Mastercard Foundation Scholars Program", funding:"Full (tuition + stipend + more)", due:null, state:"watch", dueText:"Varies by partner", notes:"⭐ Ethiopia + Rwanda eligible; 62+ partner universities.", url:"https://mastercardfdn.org", star:true},
+  {id:45, cat:"Master's / PhD Scholarships", name:"KOICA Scholarship 2027 (South Korea)", funding:"Fully funded master's", due:null, state:"watch", dueText:"A June 2026 deadline cited — verify next window", notes:"Verify next cycle.", url:"", star:false},
+  {id:8, cat:"Master's / PhD Scholarships", name:"AIMS \"AI for Science\" Master's (DeepMind scholarships)", funding:"40 fully funded", due:null, state:"watch", dueText:"Check window", notes:"Research pathway; ai.aims.ac.za.", url:"https://ai.aims.ac.za", star:false},
+  {id:9, cat:"Master's / PhD Scholarships", name:"MBZUAI Aspire PhD Fellowship (UAE)", funding:"Fully funded PhD + visa + stipend + insurance", due:null, state:"watch", dueText:"Check", notes:"Top PhD route after MSIT.", url:"https://mbzuai.ac.ae", star:false},
+  {id:10, cat:"Master's / PhD Scholarships", name:"CMU Certificate in AI for Africa 2027", funding:"Check", due:null, state:"watch", dueText:"Check", notes:"You're already at CMU-Africa — ask program about funding/overlap.", url:"", star:false},
+
+  // 11. Remote Jobs & Boards
+  {id:46, cat:"Remote Jobs & Boards", name:"Trust Wallet — Design Engineer", funding:"Salaried (not funded)", due:null, state:"rolling", dueText:"Open now", notes:"Full-time, fully remote, open globally; web3 company (doubly relevant).", url:"", star:false},
+  {id:47, cat:"Remote Jobs & Boards", name:"Job boards (aggregated)", funding:"Salaried (not funded)", due:null, state:"rolling", dueText:"Ongoing", notes:"WeWorkRemotely, Remote OK, Wellfound, RemoteAfrica, Turing, Andela, Toptal, Deel, Simplify.jobs, internlist.org.", url:"https://weworkremotely.com", star:false},
+  {id:48, cat:"Remote Jobs & Boards", name:"AmaliTech Rwanda → full-time", funding:"Salaried (not funded)", due:null, state:"rolling", dueText:"Via apprenticeship conversion", notes:"Most realistic near-term paid local route.", url:"", star:false}
+];
+
+/* ---------------- Helpers ---------------- */
+function daysUntil(iso){
+  if(!iso) return null;
+  const d = new Date(iso + "T23:59:59");
+  return Math.ceil((d - TODAY) / 86400000);
+}
+function urgencyOf(o){
+  if(o.state === "closed") return "closed";
+  const du = daysUntil(o.due);
+  if(du === null) return "open";           // rolling / watch with no date
+  if(du < 0) return "closed";
+  if(du <= 14) return "urgent";
+  if(du <= 45) return "soon";
+  return "open";
+}
+function deadlineClass(o){ return urgencyOf(o); }
+function sortKey(o){
+  const du = daysUntil(o.due);
+  // closed/no-date sink to bottom; dated items sorted ascending by days left
+  if(o.state === "closed" || du === null || du < 0) return 1e9 + (o.id);
+  return du;
+}
+
+const STATUS_LABELS = {none:"Not started", interested:"Interested", applying:"Applying", applied:"Applied", accepted:"Accepted", skip:"Skip"};
+function loadStatus(){ try { return JSON.parse(localStorage.getItem("sifen-tracker") || "{}"); } catch(e){ return {}; } }
+function saveStatus(map){ localStorage.setItem("sifen-tracker", JSON.stringify(map)); }
+let STATUS = loadStatus();
+
+/* ---------------- State ---------------- */
+let activeCat = "All";
+let searchTerm = "";
+let statusFilter = "";
+let urgencyFilter = "";
+let sortMode = "deadline";
+
+/* ---------------- Render ---------------- */
+const el = (q) => document.querySelector(q);
+el("#today").textContent = "Today: " + TODAY.toDateString();
+
+function matches(o){
+  if(activeCat !== "All" && o.cat !== activeCat) return false;
+  if(urgencyFilter && urgencyOf(o) !== urgencyFilter) return false;
+  const st = STATUS[o.id] || "none";
+  if(statusFilter && st !== statusFilter) return false;
+  if(searchTerm){
+    const hay = (o.name + " " + o.funding + " " + o.notes + " " + o.cat + " " + o.dueText).toLowerCase();
+    if(!hay.includes(searchTerm.toLowerCase())) return false;
+  }
+  return true;
+}
+
+function renderTabs(){
+  const counts = {};
+  DATA.forEach(o => counts[o.cat] = (counts[o.cat]||0)+1);
+  const tabs = el("#tabs");
+  tabs.innerHTML = "";
+  const all = document.createElement("div");
+  all.className = "tab" + (activeCat==="All"?" active":"");
+  all.innerHTML = 'All <span class="cnt">'+DATA.length+'</span>';
+  all.onclick = () => { activeCat="All"; render(); };
+  tabs.appendChild(all);
+  CATEGORIES.forEach(c => {
+    const t = document.createElement("div");
+    t.className = "tab" + (activeCat===c?" active":"");
+    t.innerHTML = c + ' <span class="cnt">'+(counts[c]||0)+'</span>';
+    t.onclick = () => { activeCat=c; render(); };
+    tabs.appendChild(t);
+  });
+}
+
+function cardHTML(o){
+  const u = urgencyOf(o);
+  const st = STATUS[o.id] || "none";
+  const closedCls = (u === "closed") ? " closed" : "";
+  const link = o.url ? '<a class="link" href="'+o.url+'" target="_blank" rel="noopener">Official page ↗</a>' : '<span class="link" style="color:var(--muted)">No link</span>';
+  const options = Object.keys(STATUS_LABELS).map(k =>
+    '<option value="'+k+'"'+(k===st?' selected':'')+'>'+STATUS_LABELS[k]+'</option>').join("");
+  return '<div class="card'+closedCls+'">'
+    + '<div class="top"><h3>'+o.name+'</h3><span class="id">#'+o.id+'</span></div>'
+    + '<div class="badges">'
+      + '<span class="badge fund">'+o.funding+'</span>'
+      + (o.star ? '<span class="badge star">⭐ high-fit</span>' : '')
+    + '</div>'
+    + '<div class="deadline '+u+'"><span class="dl">'+o.dueText+'</span></div>'
+    + '<p class="notes">'+o.notes+'</p>'
+    + '<div class="foot">'
+      + '<span><span class="statusdot s-'+st+'"></span>'
+      + '<select class="status-select" data-id="'+o.id+'">'+options+'</select></span>'
+      + link
+    + '</div>'
+  + '</div>';
+}
+
+function renderStats(){
+  const total = DATA.length;
+  let urgent=0, soon=0, closed=0, tracked=0;
+  DATA.forEach(o => {
+    const u = urgencyOf(o);
+    if(u==="urgent") urgent++;
+    else if(u==="soon") soon++;
+    else if(u==="closed") closed++;
+    const st = STATUS[o.id]||"none";
+    if(st!=="none" && st!=="skip") tracked++;
+  });
+  el("#stats").innerHTML =
+      stat(total,"Total opportunities","")
+    + stat(urgent,"Urgent (≤14 days)","urgent")
+    + stat(soon,"Soon (≤45 days)","soon")
+    + stat(CATEGORIES.length,"Categories","")
+    + stat(tracked,"You're tracking","done")
+    + stat(closed,"Closed / passed","");
+}
+function stat(n,l,cls){ return '<div class="stat '+cls+'"><div class="n">'+n+'</div><div class="l">'+l+'</div></div>'; }
+
+function render(){
+  renderStats();
+  renderTabs();
+  const list = DATA.filter(matches);
+
+  let html = "";
+  if(list.length === 0){
+    html = '<div class="empty">No opportunities match your filters.</div>';
+  } else if(sortMode === "category"){
+    CATEGORIES.forEach(c => {
+      const items = list.filter(o => o.cat===c).sort((a,b)=>sortKey(a)-sortKey(b));
+      if(items.length===0) return;
+      html += groupTitle(c, items.length) + '<div class="cards">' + items.map(cardHTML).join("") + '</div>';
+    });
+  } else {
+    let sorted = list.slice();
+    if(sortMode==="deadline") sorted.sort((a,b)=>sortKey(a)-sortKey(b));
+    else if(sortMode==="name") sorted.sort((a,b)=>a.name.localeCompare(b.name));
+    html = '<div class="cards">' + sorted.map(cardHTML).join("") + '</div>';
+  }
+  el("#content").innerHTML = html;
+
+  document.querySelectorAll(".status-select").forEach(sel => {
+    sel.addEventListener("change", e => {
+      const id = e.target.getAttribute("data-id");
+      STATUS[id] = e.target.value;
+      saveStatus(STATUS);
+      render();
+    });
+  });
+}
+function groupTitle(c, n){
+  return '<div class="group-title"><span class="bar"></span>'+c+' <span class="gc">· '+n+'</span></div>';
+}
+
+/* ---------------- Wire up controls ---------------- */
+el("#search").addEventListener("input", e => { searchTerm = e.target.value; render(); });
+el("#statusFilter").addEventListener("change", e => { statusFilter = e.target.value; render(); });
+el("#urgencyFilter").addEventListener("change", e => { urgencyFilter = e.target.value; render(); });
+el("#sort").addEventListener("change", e => { sortMode = e.target.value; render(); });
+el("#reset").addEventListener("click", () => {
+  searchTerm=""; statusFilter=""; urgencyFilter=""; sortMode="deadline"; activeCat="All";
+  el("#search").value=""; el("#statusFilter").value=""; el("#urgencyFilter").value=""; el("#sort").value="deadline";
+  render();
+});
+
+render();
+</script>
+</body>
+</html>
