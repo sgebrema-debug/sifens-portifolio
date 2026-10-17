@@ -1,7 +1,8 @@
 import type { PortfolioPage } from '@/lib/portfolio';
 
 export function AboutStory({ page }: { page: PortfolioPage }) {
-  const graduationPhoto = page.images.find(image => image.alt.toLowerCase().includes('graduation'));
+  const graduationPhoto = page.images.find(image => image.alt.toLowerCase().includes('graduation') && !image.alt.toLowerCase().includes('certificate'));
+  const graduationCertificate = page.images.find(image => image.alt.toLowerCase().includes('graduation certificate'));
 
   return (
     <>
@@ -33,6 +34,20 @@ export function AboutStory({ page }: { page: PortfolioPage }) {
               </a>
               <figcaption>AASTU · Class of June 2026</figcaption>
             </figure>
+          )}
+          {graduationCertificate && (
+            <div className="graduation-document">
+              <span className="journey-label">ACADEMIC DOCUMENT</span>
+              <h4>Temporary graduation certificate</h4>
+              <p>Issued by AASTU to certify completion of my Bachelor of Science degree in Software Engineering.</p>
+              <a className="certificate-preview" href={graduationCertificate.src} target="_blank" rel="noreferrer" aria-label="View the AASTU temporary graduation certificate at full size">
+                <img src={graduationCertificate.src} alt={graduationCertificate.alt} width="1113" height="960" loading="lazy" />
+              </a>
+              <div className="certificate-actions">
+                <a className="text-link" href={graduationCertificate.src} target="_blank" rel="noreferrer">View certificate ↗</a>
+                <a className="text-link" href={graduationCertificate.src} download="Sifen-Mekonnen-AASTU-Graduation-Certificate.jpg">Download certificate ↓</a>
+              </div>
+            </div>
           )}
         </div>
         <div className="milestone"><span className="journey-label">NOW / KIGALI, RWANDA</span><h3>Carnegie Mellon University Africa</h3><p>MS Information Technology · AI focus</p></div>

@@ -244,6 +244,12 @@ footer h2 { font-size: clamp(38px, 4.5vw, 58px); margin-bottom: 28px; }
 .graduation-photo { margin: 24px 0 0; max-width: 340px; }
 .graduation-photo img { width: 100%; height: auto; border: 1px solid var(--line); }
 .graduation-photo figcaption { margin-top: 10px; font-size: 11px; color: var(--muted); }
+.graduation-document { margin-top: 30px; border-top: 1px solid var(--line); padding-top: 24px; }
+.graduation-document .journey-label { margin-bottom: 12px; }
+.graduation-document h4 { font-size: 18px; margin: 0 0 12px; font-weight: 600; }
+.certificate-preview { display: block; width: 100%; max-width: 340px; aspect-ratio: 960 / 1113; overflow: hidden; position: relative; background: var(--paper-deep); border: 1px solid var(--line); }
+.certificate-preview img { position: absolute; width: 115.9375%; max-width: none; height: auto; top: 50%; left: 50%; transform: translate(-50%, -50%) rotate(-90deg); }
+.certificate-actions { display: flex; flex-wrap: wrap; gap: 14px 22px; margin-top: 20px; }
 .about-quote { font-family: 'Fraunces', Georgia, serif; font-size: clamp(28px, 3.5vw, 43px); line-height: 1.4; color: var(--green); margin: 65px auto; padding: 32px 15px 0; letter-spacing: -.02em; text-align: center; position: relative; }
 .about-quote::before { content: ''; height: 2px; width: 48px; background: var(--orange); position: absolute; top: 0; left: calc(50% - 24px); }
 .about-quote p { font-family: inherit; font-size: inherit; line-height: inherit; color: inherit; margin: 0; }
