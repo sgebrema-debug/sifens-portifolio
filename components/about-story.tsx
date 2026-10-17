@@ -1,6 +1,8 @@
 import type { PortfolioPage } from '@/lib/portfolio';
 
 export function AboutStory({ page }: { page: PortfolioPage }) {
+  const graduationPhoto = page.images.find(image => image.alt.toLowerCase().includes('graduation'));
+
   return (
     <>
       <div className="about-intro">
@@ -20,7 +22,19 @@ export function AboutStory({ page }: { page: PortfolioPage }) {
       </div>
 
       <div className="about-milestones" aria-label="Education journey">
-        <div className="milestone"><span className="journey-label">JUNE 2026 / ADDIS ABABA</span><h3>AASTU graduate</h3><p>Software Engineering</p></div>
+        <div className="milestone graduation-milestone">
+          <span className="journey-label">JUNE 2026 / ADDIS ABABA</span>
+          <h3>AASTU graduate</h3>
+          <p>Software Engineering · Addis Ababa Science and Technology University</p>
+          {graduationPhoto && (
+            <figure className="graduation-photo">
+              <a href={graduationPhoto.src} target="_blank" rel="noreferrer" aria-label="View Sifen's AASTU graduation portrait at full size">
+                <img src={graduationPhoto.src} alt={graduationPhoto.alt} width="1280" height="1771" loading="lazy" />
+              </a>
+              <figcaption>AASTU · Class of June 2026</figcaption>
+            </figure>
+          )}
+        </div>
         <div className="milestone"><span className="journey-label">NOW / KIGALI, RWANDA</span><h3>Carnegie Mellon University Africa</h3><p>MS Information Technology · AI focus</p></div>
       </div>
 
